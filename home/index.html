@@ -5,6 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Home</title>
+        <link rel="shortcut icon" href="../img/suharlife-logo.ico">
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -37,12 +38,14 @@
                 top: 150px;
             }
 
-            #appName {
-                font-size: 350%;
+            #name {
+                font-size: 300%;
             }
 
             #reason {
-                font-size: 150%;
+                background-color: red;
+                text-align: left;
+                font-size: 120%;
             }
 
             #information {
@@ -63,19 +66,15 @@
             }
 
             #topContainer {
-                background-image: url("images/background.jpg");
-                height: 400px;
+                background-image: url("images/indonesia-3.jpg");
+                
                 width: 100%;
                 padding: 0;
                 background-size: cover;
             }
 
             #main {
-                background-color: #EFEFEF;
-                background-blend-mode:overlay;
-                opacity: 0.85;
-                padding-bottom: 20px;
-                width: 100%;
+                
             }
 
             .center {
@@ -111,6 +110,35 @@
                 width:170px;
                 
             }
+            
+            #jumboSet {
+                position: relative;
+                top: 60px;
+
+                margin: 0 auto;
+                background-blend-mode:overlay;
+                opacity: 0.85;
+               
+                max-height: 400px;
+            }
+            #face {
+                position: relative;
+                top: 48px;
+                margin: 0 auto;
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                background-position: center;
+                background-size: cover;
+                background-image: url("images/me.png");
+            }
+
+            #intro {
+                position: relative;
+                top: 100px;
+            }
+
+
         </style>
     </head>
     <body data-spy="scroll" data-target=".navbar-collapse">
@@ -140,73 +168,38 @@
 
                         <li class="active"> <a href="#topContainer">Home</a></li>
 
-                        <li><a href="#middleContainer">About</a></li>
+                        <li><a href="#middleContainer">Projects</a></li>
 
-                        <li><a href="#footer">Download The App</a></li>
+                        <li><a href="#footer">Contact</a></li>
 
                     </ul>
 
-
-                    <form class="navbar-form navbar-right">
-                        <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Email"></input>
-                        </div>
-                        <div class="form-group">
-                            <input type="password" class="form-control" placeholder="Password"></input>
-
-                        </div>
-
-                        <button type="submit" class="btn btn-success">Log In</button>
-
-                    </form>
-
-
                 </div>
-
-
 
             </div>
 
         </nav>
-
-
-        <div class="container-fluid contentContainer" id="topContainer">
+        <div class="container container-fluid contentContainer" id="topContainer">
             
-
-            <div id="main">
-                <div id="landing">
-                    <p class="text-center">
-                        <span id="appName">Gradetor</span>
-                        
-                        <br />
-                        
-                        <span id="reason">Having trouble calculating your overall grade?</span>
-
-                        <br />
-                        <br />
-
-                        <span id="information">Gradetor will help you calculate your overall grade in no time. Just plug each category with a designated weighting and you are done!</span>
-                    </p>
-
-                     <p id="mailingList" class="text-center"><strong>Interested? Join our mailing list!</strong></p>
-
-                     <br />
-                     <form>
+                
+            <div id="intro">
+                    <div id ="face">
                        
-                        <div class="input-group" id="emailInput">
 
-                            <div class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></div>
 
-                            <input type="email" class="form-control" placeholder="Your email"></input>
+                    </div>
+                    <div class="container">
+                        <div class="jumbotron" id="jumboSet">
+                            <p>
+                                Hello, my name is Abraham <em>Dio</em> Suharli. I am from Jakarta, Indonesia. Currently, I am pursuing a Stat/CS degree in University of Illinois at Urbana-Champaign. 
+                                <br > <br >
+                                <strong>Nice to meet you!</strong>
+                            </p>
+                              
                         </div>
-
-
-                    </form>
+                    </div>
 
                 </div>
-            </div>
-
-
             </div>
 
             
@@ -216,7 +209,7 @@
 
             <div class="row center">
 
-                <h1 class="center title">Why This App Is Awesome</h1>
+                <h1 class="center title">Projects</h1>
 
                 <p class="lead center">Summary of the app's awesomeness</p>
 
@@ -227,16 +220,23 @@
 
                 <div class="col-md-4 marginTop">
 
-                    <h2><span class="glyphicon glyphicon-music"></span> Header</h2>
-                    <p>A brief description of the app's functionalities and design. It is also good idea to have a documentation for new users. A brief description of the app's functionalities and design. It is also good idea to have a documentation for new users. A brief description of the app's functionalities and design. It is also good idea to have a documentation for new users.</p>
-                    <button class="btn btn-success marginTop">Sign Up</button>
+                    <h2><span class="glyphicon glyphicon-globe"></span> Personal Website</h2>
+                    <p>
+                        You are currently looking at the result of my latest project; a personal website. Although it seems to be very simple and 'buggy' compared to others, I denote it as my major accomplishment. I started my programming experience from Pascal in my freshman year at high school, and carrying on to C++ and Java. Since then, I never touched any programming languages until my junior year in college. What you're seeing now is accomplished within a few weeks of rigorously studying both HTML and CSS, with a little bit of Javascript along the side. 
 
+                    </p>
+                    <!--
+                    <a class="btn btn-default" href="#topContainer" role="button">Top</a>
+                    -->
 
                 </div>
                 <div class="col-md-4 marginTop">
 
-                    <h2><span class="glyphicon glyphicon-off"></span> Header</h2>
-                    <p>A brief description of the app's functionalities and design. It is also good idea to have a documentation for new users. A brief description of the app's functionalities and design. It is also good idea to have a documentation for new users. A brief description of the app's functionalities and design. It is also good idea to have a documentation for new users.</p>
+                    <h2><span class="glyphicon glyphicon-off"></span> Parallax Effect</h2>
+                    <p>
+                        I have seen a few websites with this scrolling effect to be very unique and <em>catchy</em>. Without further a ado, I learned this material and applied it to my <a href="http://suharlife.com">About</a> page. I am still using open source code for this effect (thanks to <a href="https://github.com/Prinzhorn/skrollr">Skrollr</a>). But,     
+
+                    </p>
                     <button class="btn btn-success marginTop">Sign Up</button>
 
                 </div>
