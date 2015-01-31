@@ -1,435 +1,149 @@
 <!DOCTYPE html>
-<html class="no-skrollr">
-<head>
-	<meta charset="utf-8">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-	<title>Welcome!</title>
-	
-	<style type="text/css">
-
-	@media screen and (min-width: 1024px) {
-		html { font-size: 27px;}
-
-	}
-
-	@media screen and (max-width: 1024px) {
-		html { font-size: 27px;}
-
-	}
-
-	@media screen and (max-width: 950px) {
-	 	html { font-size: 23px;}
-	}
-
-
-	@media screen and (max-width: 650px) {
-	 	html { font-size: 20px;}
-
-	}
-
-	@media screen and (max-width: 480px) {
-		html { font-size: 15px;}
-	}
-	* {
-		padding:0;
-		margin:0;
-	}
-
-	html, body {
-		height:100%;
-	}
-
-	.skrollr-desktop body {
-		height:100% !important;
-	}
-
-	body {
-		font-family:sans-serif;
-	}
-
-	p {
-		margin:1rem 0;
-	}
-
-	h3 {
-		font-size: 1.5rem;
-	}
-	.parallax-image-wrapper {
-		position:fixed;
-		left:0;
-		width:100%;
-		overflow:hidden;
-	}
-
-	.parallax-image-wrapper-50 {
-		height:50%;
-		top:-50%;
-	}
-
-	.parallax-image-wrapper-100 {
-		height:100%;
-		top:-100%;
-	}
-
-	.parallax-image {
-		display:none;
-		position:absolute;
-		bottom:0;
-		left:0;
-		width:100%;
-		background-repeat:no-repeat;
-		background-position:center;
-		background-size:cover;
-	}
-
-	.parallax-image-50 {
-		height:200%;
-		top:-50%;
-	}
-
-	.parallax-image-100 {
-		height:100%;
-		top:0;
-	}
-
-	.parallax-image.skrollable-between {
-		display:block;
-	}
-
-	.no-skrollr .parallax-image-wrapper {
-		display:none !important;
-	}
-
-	#skrollr-body {
-		height:100%;
-		overflow:visible;
-		position:relative;
-	}
-
-	.gap {
-		background:transparent center no-repeat;
-		background-size:cover;
-	}
-
-	.skrollr .gap {
-		background:transparent !important;
-	}
-
-	.gap-50 {
-		height:50%;
-	}
-
-	.gap-100 {
-		height:100%;
-	}
-
-	.header, .content {
-		background:#fff;
-		padding:0;
-		-webkit-transform-translate3d(0,0,1px);
-		-webkit-box-sizing:border-box;
-		-moz-box-sizing:border-box;
-		box-sizing:border-box;
-	}
-
-	.content-full {
-		height:100%;
-	}
-
-	#done {
-		height:100%;
-	}
-
-	#hello {
-		font-size: 2rem;
-		float: right;
-		margin-top: 30px;
-		margin-right: 10px;
-	}
-
-	#photoContent {
-		margin-top: 20px;
-		margin-left: 20px;
-		float:left;
-
-	}
-
-	#photoContent1 {
-		padding: 10px 10px 10px 20px;
-		margin-right: 30px;
-		margin-top: 70px;
-		float: left;
-		
-	}
-
-	#yosemiteTitle {
-		position: absolute;
-		bottom : -350px;
-		right: 0;
-		margin-right: 20px;
-		float: right;
-		/*padding: 10px;*/
-		color: white;
-	}
-
-	#intro p {
-		font-size: 1rem;
-		padding: 4px;
-		margin: 0;
-	}
-
-	#photo2 {
-		padding: 0;
-		margin: 0;
-		background-color: white;
-		text-align: center;
-	}
-
-	#photo2 h3,p {
-		margin:0;
-		padding: 5px;
-
-	}
-
-	#photoContent1-1 {
-		padding: 10px 10px 10px 20px;
-		margin-right: 30px;
-		margin-top: 70px;
-		float: right;
-		color: white;
-
-	}
-	#link {
-		text-align: center;
-		padding-top: 80px;
-
-	}
-	#link a{
-		font-size: 1.2rem;
-		text-decoration: none;
-		color: white;
-	}
-
-	#link a:hover{
-		color:red;
-		letter-spacing: 2px;
-	}
-
-	</style>
-</head>
-
-<body>
-	<!--
-		We position the images fixed and therefore need to place them outside of #skrollr-body.
-		We will then use data-anchor-target to display the correct image matching the current section (.gap element).
-	-->
-	<div
-		class="parallax-image-wrapper parallax-image-wrapper-100"
-		data-anchor-target="#slide0 + .gap"
-		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
-		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-
-		<div
-			class="parallax-image parallax-image-100"
-			style="background-image:url(img/me.jpg)"
-			data-anchor-target="#slide0 + .gap"
-			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-		></div>
-
-
-		
-		<!--the +/-80% translation can be adjusted to control the speed difference of the image-->
-	</div>
-
-	<div
-		class="parallax-image-wrapper parallax-image-wrapper-100"
-		data-anchor-target="#slide1 + .gap"
-		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
-		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-		<div
-			class="parallax-image parallax-image-100"
-			style="background-image:url(img/yosemite.jpg)"
-			data-anchor-target="#slide1 + .gap"
-			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-		></div>
-	</div>
-
-	<div
-		class="parallax-image-wrapper parallax-image-wrapper-100"
-		data-anchor-target="#slide2 + .gap"
-		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
-		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-		<div
-			class="parallax-image parallax-image-100"
-			style="background-image:url(img/SF-2.jpg)"
-			data-anchor-target="#slide2 + .gap"
-			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-		></div>
-	</div>
-
-	<div
-		class="parallax-image-wrapper parallax-image-wrapper-100"
-		data-anchor-target="#slide2-1 + .gap"
-		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
-		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-		<div
-			class="parallax-image parallax-image-100"
-			style="background-image:url(img/indonesia-1.jpg)"
-			data-anchor-target="#slide2-1 + .gap"
-			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-		></div>
-	</div>
-
-
-	<div
-		class="parallax-image-wrapper parallax-image-wrapper-50"
-		data-anchor-target="#slide3 + .gap"
-		data-bottom-top="transform:translate3d(0px, 300%, 0px)"
-		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-		<div
-			class="parallax-image parallax-image-50"
-			style="background-image:url(img/iics-2-min.png)"
-			data-anchor-target="#slide3 + .gap"
-			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-		></div>
-
-	</div>
-
-	<div
-		class="parallax-image-wrapper parallax-image-wrapper-50"
-		data-anchor-target="#slide4 + .gap"
-		data-bottom-top="transform:translate3d(0px, 300%, 0px)"
-		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-		<div
-			class="parallax-image parallax-image-50"
-			style="background-image:url(img/foothill.jpg)"
-			style="top:50px"
-			data-anchor-target="#slide4 + .gap"
-			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-		></div>
-
-	</div>
-
-	<div
-		class="parallax-image-wrapper parallax-image-wrapper-100"
-		data-anchor-target="#slide5 + .gap"
-		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
-		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-		<div
-			class="parallax-image parallax-image-100"
-			style="background-image:url(img/SF-3.jpg)"
-			data-anchor-target="#slide5 + .gap"
-			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-		></div>
-
-	</div>
-
-	<div id="skrollr-body">
-		
-
-		<div class="content" id="slide0"></div>
-		<div style="z-index:0" class="gap gap-100" style="background-image:url(img/me.jpg)">
-			<div 	id = "hello"
-                    data-0="opacity: 1"
-                    data--100-top-top="opacity: 0"
-                    data-anchor-target="#intro">
-                    <div id="intro">
-                    	<h3>Hello World!</h3>
-                    	<p>Welcome to my (new) webpage.</p>
-                    	<p>Let's see what I've been up to.</p>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Home</title>
+        <link rel="shortcut icon" href="../img/suharlife-logo.ico">
+
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    </head>
+    <body data-spy="scroll" data-target=".navbar-collapse">
+        <div id="wrap">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <div class="navbar-brand">
+                        <a href="#topContainer">
+                        <img id="logo" style="height:80px;width:180px;" src="img/suharlife.png"></img>
+                        </a>
                     </div>
-	        </div>
+                </div>
 
-		</div>
-		
+                <div class="collapse navbar-collapse" id="collapseList">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li class="active"> <a href="#topContainer">Home</a></li>
+                        <li><a href="#middleContainer">Projects</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="http://suharlife.com/about">About Me <span class="badge">Beta</span></a><li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container container-fluid contentContainer" id="topContainer">   
+            <div id="intro">
+                    <div id="header">
+                        <h1>Welcome!</h1>
+                    </div>
 
-		<div class="content" id="slide1"></div>
-		<div class="gap gap-100" style="background-image:url(img/yosemite.jpg)">
-			<div id="photo"
-				data-bottom-top="opacity:0"
-				data-100-top-top="opacity: 1"
-				data-anchor-target="#photoContent">
-				<div id="photoContent">
-					<h1>Photography!</h1>
-					<p>Just say I take photos when I am on the mood. :)<p>
-				</div>
+                    <div id ="face"></div>
 
-				<div id="yosemiteTitle">
-					<h3>Yosemite National Park</h3>
-				</div>
-			</div>
+                    <div class="container">
+                        <div class="jumbotron" id="jumboSet">
+                            <p>
+                                Hello, my name is Abraham <em><strong>Dio</strong></em> Suharli. I am from Jakarta, Indonesia. Currently, I am a junior in University of Illinois at Urbana-Champaign pursuing a <em>B.S. in Statistics and Computer Science.</em>
+                                <br /> <br />
+                                Nice to meet you!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container contentContainer" id="middleContainer">
+            <div class="row center">
+                <h1 class="center title">Projects</h1>
+                <p class="lead center"></p>
+            </div>
 
-		</div>
+            <div class="row marginBottom">
+                <div class="col-md-4 marginTop">
+                    <h2><span class="glyphicon glyphicon-globe"></span> Personal Website</h2>
+                    <p>
+                        You are currently looking at the result of my latest project; a personal website. Although it seems to be very simple and 'buggy' compared to others, I denote it as my major accomplishment. I started my programming experience from Pascal in my freshman year at high school, and carrying on to C++ and Java. Since then, I never touched any programming languages until my junior year in college. What you're seeing now is accomplished within a few weeks of rigorously studying both HTML and CSS, with a little bit of Javascript along the side. 
+                    </p>
+                </div>
+
+                <div class="col-md-4 marginTop">
+
+                    <h2><span class="glyphicon glyphicon-check"></span> Parallax Effect</h2>
+                    <p >
+                        I have seen a few websites with this scrolling effect to be very unique and <em>catchy</em>. I find these kind of websites attract more people compared to static pages that we used to see in the past. Without further a ado, I learned this material and applied it to my <a href="http://suharlife.com/about">About Me</a> page. However, I am still using an open source resource for this effect to be realized (thanks to <a href="https://github.com/Prinzhorn/skrollr">Skrollr</a>). Through this experience, I bring my both my CSS and HTML skill to the intermediate level. In the future, I am looking forward to implement this effect using my own code. 
+                    </p>
+                </div>
+
+                <div class="col-md-4 marginTop">
+                    <h2><span class="glyphicon glyphicon-flash"></span> OOP Project</h2>
+                    <p>[Will update soon]</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container-fluid contentContainer" id="contact">
+            <div class="row">
+                <div class="col-md-offset-4 col-md-4 col-md-offset-4">
+                    <h1 class="center title paddingBottom">Say Hello!</h1>
+                    <a href="mailto:abrahamdio@gmail.com" target="_top"><p class="lead center">abrahamdio@gmail.com</p></a>
+                    <br/>
+                    <h1 class="center paddingBottom">Social Media</h1>
+                    <div id="media">
+                        <a href="https://github.com/suharlife"><img class="socmediaLogo" src="img/github-logo.png"></img></a>
+                        <a href="http://linkedin.com/in/suharli"><img class="socmediaLogo" src="img/linkedin-logo.png"></img></a>
+                        <a href="https://www.youtube.com/user/wassupbro1403/"><img class="socmediaLogo" src="img/youtube-logo.png"></img></a>
+                        <a href="https://www.facebook.com/dio.suharli"><img id="media-right" src="img/fb-logo.png"></img></a>
+                    </div>
+                    <br/>
+                    <h1 class="center paddingBottom">Resume</h1>
+                    <div id="resume">
+                        <p class="center"><a href="#" class="btn btn-default btn-md disabled" role="button">Download</a></p>
+                        <p class="small center">Updating resume. Please contact me by <a href="mailto:abrahamdio@gmail.com" target="_top">email.</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
-		<div class="content" id="slide2"></div>
-		<div class="gap gap-100" style="background-image:url(img/SF-2.jpg)">
-			<div id="photo1">
-				<div id="photoContent1">
-					<h3>Golden Bridge - San Francisco</h3>
-				</div>
-			</div>
-		</div>
-
-		<div class="content" id="slide2-1"></div>
-		<div class="gap gap-100" style="background-image:url(img/indonesia-1.jpg)">
-			<div id="photo1-1">
-				<div id="photoContent1-1">
-					<h3>Desa Kenalan - Indonesia</h3>
-				</div>
-			</div>
-		</div>
+        </div> <!--Wrap-->
+        
+        <div class="row" id="footer">
+            <div class="container">
+                <p class="muted credit text-center">&copy; Abraham Dio Suharli | Logo by: <a href="mailto:jessynathalie@windowslive.com" target="_top">Jessy Nathalie</a></p>
+            </div>
+        </div>
 
 
-		<div class="content" id="slide3"></div>
-		<div class="gap gap-50" style="background-image:url(img/iics-2-min.png)">
-			<div id="photo2"
-				data-anchor-target="#slide3 + .gap + #slide4 + .gap"
-			
-			>
-				<h3>Meeting old and new friends!</h3>
-			</div>
-		</div>
 
-		<div class="content" id="slide4"></div>
-		<div class="gap gap-50" style="background-image:url(img/foothill.jpg)">
-		</div>
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
 
-		<div class="content" id="slide5"></div>
-		<div class="gap gap-100" style="background-image:url(img/SF-3.jpg)">
-		<div id="link">
-			<h3 style="padding:10px; color:white;">Lastly, check out the real</h3>
-			<a  href="http://suharlife.com/home"><-Homepage-></a>
-		</div>
-		</div>
+        <script>
+
+            var windowHeight=$(window).height();
+
+            $(".contentContainer").css("min-height",windowHeight);
 
 
-	</div>
-	<script type="text/javascript" src="js/skrollr.js"></script>
-
-	<script type="text/javascript">
-	skrollr.init({
-		smoothScrolling: false,
-		mobileDeceleration: 0.004
-	});
-	</script>
-</body>
-
+        </script>
+    </body>
 </html>
-

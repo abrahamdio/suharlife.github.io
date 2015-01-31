@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html class="no-skrollr">
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<title>Welcome!</title>
+	<link rel="shortcut icon" href="../img/suharlife-logo.ico">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+</head>
+
+<body>
+	<!--
+		We position the images fixed and therefore need to place them outside of #skrollr-body.
+		We will then use data-anchor-target to display the correct image matching the current section (.gap element).
+	-->
+	<div
+		class="parallax-image-wrapper parallax-image-wrapper-100"
+		data-anchor-target="#slide0 + .gap"
+		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
+		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
+
+
+		<div
+			class="parallax-image parallax-image-100"
+			style="background-image:url(img/me.jpg)"
+			data-anchor-target="#slide0 + .gap"
+			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
+			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
+		></div>
+
+
+		
+		<!--the +/-80% translation can be adjusted to control the speed difference of the image-->
+	</div>
+
+	<div
+		class="parallax-image-wrapper parallax-image-wrapper-100"
+		data-anchor-target="#slide1 + .gap"
+		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
+		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
+
+		<div
+			class="parallax-image parallax-image-100"
+			style="background-image:url(img/yosemite.jpg)"
+			data-anchor-target="#slide1 + .gap"
+			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
+			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
+		></div>
+	</div>
+
+	<div
+		class="parallax-image-wrapper parallax-image-wrapper-100"
+		data-anchor-target="#slide2 + .gap"
+		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
+		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
+
+		<div
+			class="parallax-image parallax-image-100"
+			style="background-image:url(img/SF-2.jpg)"
+			data-anchor-target="#slide2 + .gap"
+			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
+			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
+		></div>
+	</div>
+
+	<div
+		class="parallax-image-wrapper parallax-image-wrapper-100"
+		data-anchor-target="#slide2-1 + .gap"
+		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
+		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
+
+		<div
+			class="parallax-image parallax-image-100"
+			style="background-image:url(img/indonesia-1.jpg)"
+			data-anchor-target="#slide2-1 + .gap"
+			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
+			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
+		></div>
+	</div>
+
+
+	<div
+		class="parallax-image-wrapper parallax-image-wrapper-50"
+		data-anchor-target="#slide3 + .gap"
+		data-bottom-top="transform:translate3d(0px, 300%, 0px)"
+		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
+
+		<div
+			class="parallax-image parallax-image-50"
+			style="background-image:url(img/iics-2-min.png)"
+			data-anchor-target="#slide3 + .gap"
+			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
+			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
+		></div>
+
+	</div>
+
+	<div
+		class="parallax-image-wrapper parallax-image-wrapper-50"
+		data-anchor-target="#slide4 + .gap"
+		data-bottom-top="transform:translate3d(0px, 300%, 0px)"
+		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
+
+		<div
+			class="parallax-image parallax-image-50"
+			style="background-image:url(img/foothill.jpg)"
+			style="top:50px"
+			data-anchor-target="#slide4 + .gap"
+			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
+			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
+		></div>
+
+	</div>
+
+	<div
+		class="parallax-image-wrapper parallax-image-wrapper-100"
+		data-anchor-target="#slide5 + .gap"
+		data-bottom-top="transform:translate3d(0px, 200%, 0px)"
+		data-top-bottom="transform:translate3d(0px, 0%, 0px)">
+
+		<div
+			class="parallax-image parallax-image-100"
+			style="background-image:url(img/SF-3.jpg)"
+			data-anchor-target="#slide5 + .gap"
+			data-bottom-top="transform: translate3d(0px, -80%, 0px);"
+			data-top-bottom="transform: translate3d(0px, 80%, 0px);"
+		></div>
+
+	</div>
+
+	<div id="skrollr-body">
+		
+
+		<div class="content" id="slide0"></div>
+		<div style="z-index:0" class="gap gap-100" style="background-image:url(img/me.jpg)">
+			<div 	id = "hello"
+                    data-0="opacity: 1"
+                    data--100-top-top="opacity: 0"
+                    data-anchor-target="#intro">
+                    <div id="intro">
+                    	<h3>Hello World!</h3>
+                    	<p>Welcome to my (new) webpage.</p>
+                    	<p>Let's see what I've been up to.</p>
+                    </div>
+	        </div>
+
+		</div>
+		
+
+		<div class="content" id="slide1"></div>
+		<div class="gap gap-100" style="background-image:url(img/yosemite.jpg)">
+			<div id="photo"
+				data-bottom-top="opacity:0"
+				data-100-top-top="opacity: 1"
+				data-anchor-target="#photoContent">
+				<div id="photoContent">
+					<h1>Photography!</h1>
+					<p>Just say I take photos when I am on the mood. :)<p>
+				</div>
+
+				<div id="yosemiteTitle">
+					<h3>Yosemite National Park</h3>
+				</div>
+			</div>
+
+		</div>
+
+
+		<div class="content" id="slide2"></div>
+		<div class="gap gap-100" style="background-image:url(img/SF-2.jpg)">
+			<div id="photo1">
+				<div id="photoContent1">
+					<h3>Golden Bridge - San Francisco</h3>
+				</div>
+			</div>
+		</div>
+
+		<div class="content" id="slide2-1"></div>
+		<div class="gap gap-100" style="background-image:url(img/indonesia-1.jpg)">
+			<div id="photo1-1">
+				<div id="photoContent1-1">
+					<h3>Desa Kenalan - Indonesia</h3>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="content" id="slide3"></div>
+		<div class="gap gap-50" style="background-image:url(img/iics-2-min.png)">
+			<div id="photo2"
+				data-anchor-target="#slide3 + .gap + #slide4 + .gap"
+			
+			>
+				<h3>Meeting old and new friends!</h3>
+			</div>
+		</div>
+
+		<div class="content" id="slide4"></div>
+		<div class="gap gap-50" style="background-image:url(img/foothill.jpg)">
+		</div>
+
+		<div class="content" id="slide5"></div>
+		<div class="gap gap-100" style="background-image:url(img/SF-3.jpg)">
+		<div id="link">
+			<h3 style="padding:10px; color:white;">Go back to </h3>
+			<a  href="http://suharlife.com/">suharlife.com</a>
+		</div>
+		</div>
+
+
+	</div>
+	<script type="text/javascript" src="js/skrollr.js"></script>
+
+	<script type="text/javascript">
+	skrollr.init({
+		smoothScrolling: false,
+		mobileDeceleration: 0.004
+	});
+	</script>
+</body>
+
+</html>
+

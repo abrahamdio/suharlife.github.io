@@ -1,183 +1,158 @@
-* {
-	padding:0;
-	margin:0;
+
+.myBrand {
+
+    font-size: 200%;
+    padding-left: 50px;
 }
 
-html, body {
-	height:100%;
-	background-color: #999999;
-}
-
-.skrollr-desktop body {
-	height:100% !important;
-}
-
-body {
-	font-family:sans-serif;
-}
-
-p {
-	margin:1em 0;
-}
-
-.parallax-image-wrapper {
-	position:fixed;
-	left:0;
-	width:100%;
-	overflow:hidden;
-}
-
-.parallax-image-wrapper-half-left {
-	position: fixed;
-	float: left;
-	left:0;
-	width:50%;
-	overflow:hidden;
-}
-
-.parallax-image-wrapper-half-right {
-	position: fixed;
-	
-	right: 0;
-	width:50%;
-	overflow:hidden;
-}
-
-
-.parallax-image-wrapper-50 {
-	height:50%;
-	top:-50%;
-}
-
-.parallax-image-wrapper-70 {
-	height:70%;
-	top:-70%;
-}
-
-.parallax-image-wrapper-100 {
-	height:100%;
-	top:-100%;
-}
-
-.parallax-image {
-	display:none;
-	position:absolute;
-	bottom:0;
-	left:0;
-	width:100%;
-	background-repeat:no-repeat;
-	background-position:center;
-	background-size:cover;
-}
-
-
-.parallax-image-50 {
-	height:200%;
-	top:-50%;
-}
-
-.parallax-image-70 {
-	height:200%;
-	top:-70%;
-}
-
-.parallax-image-100 {
-	height:100%;
-	top:0;
-}
-
-.parallax-image.skrollable-between {
-	display:block;
-}
-
-.no-skrollr .parallax-image-wrapper {
-	display:none !important;
-}
-
-#skrollr-body {
-	height:100%;
-	overflow:visible;
-	position:relative;
-}
-
-.gap {
-	background:transparent center no-repeat;
-	background-size:cover;
-
-}
-
-.skrollr .gap {
-	background:transparent !important;
-}
-
-.gap-50 {
-	height:50%;
-}
-
-.gap-70 {
-	height: 70%;
-}
-.gap-100 {
-	height:100%;
-}
-.header{
-	padding: 5px;
-}
-.content {
-	background:#fff;
-	padding:1em;
-
-	-webkit-box-sizing:border-box;
-	-moz-box-sizing:border-box;
-	box-sizing:border-box;
-}
-
-.topContent {
-
-	padding:0;
-	-webkit-box-sizing:border-box;
-	-moz-box-sizing:border-box;
-	box-sizing:border-box;
-}
-
-.topContent-1 {
-	margin-top: -5px;
-	padding:1px;
-	padding-top: 0px;
-
-	-webkit-box-sizing:border-box;
-	-moz-box-sizing:border-box;
-	box-sizing:border-box;
-}
-
-.content-full {
-	height:100%;
-}
-
-#done {
-	height:100%;
+li {
+    font-size: 120%;
+    padding-right: 5px;
 }
 
 
 
-/*
-Remove text selection default color
-*/
+#main {
 
-body, html, section {
-	height: 100%;
-	width: 100%;
-	min-height: 100%;
-	
+    position: relative;
+    top: 150px;
+}
+
+#name {
+    font-size: 300%;
+}
+
+#reason {
+    background-color: red;
+    text-align: left;
+    font-size: 120%;
+}
+
+#information {
+    font-size: 100%;
+}
+
+.clear {
+    clear:both;
+}
+
+#mailingList {
+    margin-top: 100px;
+}
+
+#emailInput {
+    width: 40%;
+    margin: 0 auto;
+}
+
+#topContainer {
+    background-image: url("../img/indonesia-3.jpg");
+    
+    width: 100%;
+    padding: 0;
+    background-size: cover;
+}
+
+#main {
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    margin-top: 100px;
+    font-size: 270%;
+
+}
+
+.marginTop {
+    margin-top: 10px;
+}
+
+#contact {
+    width: 100%;
+    background-color: #B0D1FB;
+}
+
+.marginBottom {
+    margin-bottom: 30px;
+}
+
+img {
+    width: 20%;
+}
+
+#logo {
+    padding: 0;
+    margin-top: -28px;
+    width:170px;
+    
+}
+
+#jumboSet {
+    position: relative;
+    top: 15px;  
+
+    margin: 0 auto;
+    background-blend-mode:overlay;
+    opacity: 0.85;
+   
+    max-height: 400px;
+}
+#face {
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/me.png");
+}
+
+#intro {
+    position: relative;
+    top: 45px;
 }
 
 
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
+#media {
+    margin: 0 auto;
+    width: 235px;
+    height: 60px;
+
 }
 
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
+.socmediaLogo {
+    height: 40px;
+    width: 65px;
+    float: left;
+    padding-right: 25px;
+
+}
+
+#media-right {
+    height: 40px;
+    width: 40px;
+    float: left;
+   
+}
+
+.paddingBottom {
+    padding-bottom: 10px;
+}
+
+#header {
+    text-align: center;
+}
+
+#header h1{
+    padding: 0;
+    font-size: 400%;
+}
+
+#about {
+    width: 200px;
+    background-color: red;
 }

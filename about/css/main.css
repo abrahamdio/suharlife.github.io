@@ -1,0 +1,208 @@
+
+@media screen and (min-width: 1024px) {
+	html { font-size: 27px;}
+
+}
+
+@media screen and (max-width: 1024px) {
+	html { font-size: 27px;}
+
+}
+
+@media screen and (max-width: 950px) {
+ 	html { font-size: 23px;}
+}
+
+
+@media screen and (max-width: 650px) {
+ 	html { font-size: 20px;}
+
+}
+
+@media screen and (max-width: 480px) {
+	html { font-size: 15px;}
+}
+* {
+	padding:0;
+	margin:0;
+}
+
+html, body {
+	height:100%;
+}
+
+.skrollr-desktop body {
+	height:100% !important;
+}
+
+body {
+	font-family:sans-serif;
+}
+
+p {
+	margin:1rem 0;
+}
+
+h3 {
+	font-size: 1.5rem;
+}
+.parallax-image-wrapper {
+	position:fixed;
+	left:0;
+	width:100%;
+	overflow:hidden;
+}
+
+.parallax-image-wrapper-50 {
+	height:50%;
+	top:-50%;
+}
+
+.parallax-image-wrapper-100 {
+	height:100%;
+	top:-100%;
+}
+
+.parallax-image {
+	display:none;
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:100%;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.parallax-image-50 {
+	height:200%;
+	top:-50%;
+}
+
+.parallax-image-100 {
+	height:100%;
+	top:0;
+}
+
+.parallax-image.skrollable-between {
+	display:block;
+}
+
+.no-skrollr .parallax-image-wrapper {
+	display:none !important;
+}
+
+#skrollr-body {
+	height:100%;
+	overflow:visible;
+	position:relative;
+}
+
+.gap {
+	background:transparent center no-repeat;
+	background-size:cover;
+}
+
+.skrollr .gap {
+	background:transparent !important;
+}
+
+.gap-50 {
+	height:50%;
+}
+
+.gap-100 {
+	height:100%;
+}
+
+.header, .content {
+	background:#fff;
+	padding:0;
+	-webkit-transform-translate3d(0,0,1px);
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.content-full {
+	height:100%;
+}
+
+#done {
+	height:100%;
+}
+
+#hello {
+	font-size: 2rem;
+	float: right;
+	margin-top: 30px;
+	margin-right: 10px;
+}
+
+#photoContent {
+	margin-top: 20px;
+	margin-left: 20px;
+	float:left;
+
+}
+
+#photoContent1 {
+	padding: 10px 10px 10px 20px;
+	margin-right: 30px;
+	margin-top: 70px;
+	float: left;
+	
+}
+
+#yosemiteTitle {
+	position: absolute;
+	bottom : -350px;
+	right: 0;
+	margin-right: 20px;
+	float: right;
+	/*padding: 10px;*/
+	color: white;
+}
+
+#intro p {
+	font-size: 1rem;
+	padding: 4px;
+	margin: 0;
+}
+
+#photo2 {
+	padding: 0;
+	margin: 0;
+	background-color: white;
+	text-align: center;
+}
+
+#photo2 h3,p {
+	margin:0;
+	padding: 5px;
+
+}
+
+#photoContent1-1 {
+	padding: 10px 10px 10px 20px;
+	margin-right: 30px;
+	margin-top: 70px;
+	float: right;
+	color: white;
+
+}
+#link {
+	text-align: center;
+	padding-top: 80px;
+
+}
+#link a{
+	font-size: 1.2rem;
+	text-decoration: none;
+	color: white;
+}
+
+#link a:hover{
+	color:red;
+	letter-spacing: 2px;
+}
