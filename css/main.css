@@ -4,6 +4,10 @@
         font-size: 120%;
     }
 
+    #jumboSet {
+        padding: 15px;
+    }
+
 }
 .myBrand {
 
@@ -15,8 +19,6 @@ li {
     font-size: 120%;
     padding-right: 5px;
 }
-
-
 
 #main {
 
@@ -100,7 +102,6 @@ img {
 #jumboSet {
     position: relative;
     top: 15px;  
-
     margin: 0 auto;
     background-blend-mode:overlay;
     opacity: 0.85;
