@@ -11,8 +11,9 @@
         background-blend-mode:overlay;
         opacity: 0.85;
         max-height: 400px;
-        padding: 15px;
-        padding-bottom: 2px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 5px;
         padding-top: 5px;
     }
 
