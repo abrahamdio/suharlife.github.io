@@ -12,6 +12,7 @@
         opacity: 0.85;
         max-height: 400px;
         padding: 15px;
+        padding-bottom: 0;
     }
 
     #header {
