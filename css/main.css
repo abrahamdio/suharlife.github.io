@@ -1,4 +1,10 @@
 
+@media (max-width:480px) {
+    #jumboContent {
+        font-size: 120%;
+    }
+
+}
 .myBrand {
 
     font-size: 200%;
