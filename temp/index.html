@@ -16,7 +16,7 @@
 <script id="speakerstpl" type="text/template">
 {{#speakers}}
 	<div class="speaker">
-		<img src="images/{{shortname}}_tn.jpg" alt="Photo of {{name}}"></img>
+		<img src="images/{{shortname}}-tn.jpg" alt="Photo of {{name}}"></img>
 		<h3>{{name}}</h3>
 		<h4>{{reknown}}</h4>
 		<p>{{bio}}</p>
@@ -30,13 +30,15 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-	$(funtion() {
+
+	$(function() {
 		$.getJSON('data.json', function(data) {
 			var template = $("#speakerstpl").html();
 			var html = Mustache.to_html(template, data);
 			$('#carousel').html(html);
 		});
 	});
+
 </script>
 </body>
 </html>
