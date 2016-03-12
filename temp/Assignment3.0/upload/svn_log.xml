@@ -1,0 +1,3727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7985">
+<author>test_user</author>
+<date>2016-03-03T22:50:21.484672Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.1/map_data_parser.py</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment2.1/map_data_parser_test.py</path>
+</paths>
+<msg>hotfix dijkstra</msg>
+</logentry>
+<logentry
+   revision="7967">
+<author>test_user</author>
+<date>2016-03-03T22:06:22.346096Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment2.1/map_data_parser_test.py</path>
+</paths>
+<msg>test  save</msg>
+</logentry>
+<logentry
+   revision="7965">
+<author>test_user</author>
+<date>2016-03-03T21:58:26.463568Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.1/map_data_parser.py</path>
+</paths>
+<msg>docs</msg>
+</logentry>
+<logentry
+   revision="7713">
+<author>test_user</author>
+<date>2016-03-02T05:39:18.763023Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.0/main.py</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.0/map_data_parser.py</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment2.0/map_data_parser.pyc</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.0/map_data_parser_test.py</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment2.1/.idea</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/adfasd.json</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/afasdfas.json</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/data.json</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/main.py</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/map_data.json</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/map_data_parser.py</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/map_data_parser_test.py</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.1/map_data_test.json</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/metro.py</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.1/qwert.json</path>
+</paths>
+<msg>2.1</msg>
+</logentry>
+<logentry
+   revision="7060">
+<author>test_user</author>
+<date>2016-02-25T21:02:32.956828Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/map_data_parser.pyc</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/map_data_parser_test.py</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/map_data_test.json</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.0/metro.pyc</path>
+</paths>
+<msg>done 2.o</msg>
+</logentry>
+<logentry
+   revision="7059">
+<author>test_user</author>
+<date>2016-02-25T21:02:10.506908Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment2.0/main.py</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment2.0/map_data_parser.py</path>
+</paths>
+<msg>done 2.o</msg>
+</logentry>
+<logentry
+   revision="6734">
+<author>test_user</author>
+<date>2016-02-24T01:40:06.679742Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Player.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/Player.java</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.0/main.py</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.0/map_data.json</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment2.0/map_data_parser.py</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment2.0/metro.py</path>
+</paths>
+<msg>assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="6153">
+<author>test_user</author>
+<date>2016-02-18T23:12:50.117265Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/GUI/GUIChess.java</path>
+</paths>
+<msg>fixing using custom pieces</msg>
+</logentry>
+<logentry
+   revision="6118">
+<author>test_user</author>
+<date>2016-02-18T21:41:54.984422Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/test_user/Assignment1.2/manual_test_plan.pdf</path>
+</paths>
+<msg>deleting old manual test plan</msg>
+</logentry>
+<logentry
+   revision="6117">
+<author>test_user</author>
+<date>2016-02-18T21:41:09.458165Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/test_user/Assignment1.2/latex</path>
+</paths>
+<msg>delete latex doxygen</msg>
+</logentry>
+<logentry
+   revision="6116">
+<author>test_user</author>
+<date>2016-02-18T21:40:54.729859Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/test_user/Assignment1.2/html</path>
+</paths>
+<msg>delete html doxygen</msg>
+</logentry>
+<logentry
+   revision="6115">
+<author>test_user</author>
+<date>2016-02-18T21:38:10.998935Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/manual_test_plan1.2.pdf</path>
+</paths>
+<msg>manual test plan for 1.2</msg>
+</logentry>
+<logentry
+   revision="6114">
+<author>test_user</author>
+<date>2016-02-18T21:37:57.124261Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Player.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/ChessTest/TestChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/src/ChessTest/TestPlayer.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/GUI/GUIChess.java</path>
+</paths>
+<msg>manual test plan for 1.2</msg>
+</logentry>
+<logentry
+   revision="6095">
+<author>test_user</author>
+<date>2016-02-18T20:01:47.653094Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/Chess/King.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/Chess/Player.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestKing.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/src/Chess/King.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/ChessTest/TestKing.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/ChessTest/TestPlayer.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/GUI/GUIChess.java</path>
+</paths>
+<msg>assignment 1.2</msg>
+</logentry>
+<logentry
+   revision="5770">
+<author>test_user</author>
+<date>2016-02-17T07:54:06.381230Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/empress_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/empress_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/princess_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/princess_white.png</path>
+</paths>
+<msg>new images</msg>
+</logentry>
+<logentry
+   revision="5769">
+<author>test_user</author>
+<date>2016-02-17T07:52:32.025612Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Player.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/Chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/ChessTest/TestChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.2/src/ChessTest/TestPlayer.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.2/src/GUI/GUIChess.java</path>
+</paths>
+<msg>dynamic gui</msg>
+</logentry>
+<logentry
+   revision="5760">
+<author>test_user</author>
+<date>2016-02-17T05:46:23.832528Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/.idea</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/Assignment1.iml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/annotated.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/arrowdown.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/arrowright.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/bc_s.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/bdwn.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_bishop-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_bishop.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_bishop.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_chess_board-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_chess_board.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_empress-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_empress.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_empress.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_king-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_king.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_king.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_knight-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_knight.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_knight.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_pawn-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_pawn.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_pawn.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_piece-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_piece.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_piece.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_player-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_player.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_princess-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_princess.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_princess.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_queen-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_queen.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_queen.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_rook-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_rook.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_rook.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_1_1_square-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_1_1_square.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_bishop-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_bishop.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_chess_board-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_chess_board.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_empress-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_empress.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_king-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_king.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_knight-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_knight.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_pawn-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_pawn.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_player-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_player.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_princess-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_princess.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_queen-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_chess_test_1_1_test_queen.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_rook-members.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_chess_test_1_1_test_rook.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_g_u_i_1_1_g_u_i_chess-members.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/class_g_u_i_1_1_g_u_i_chess.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/class_g_u_i_1_1_g_u_i_chess.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/classes.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/closed.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/dir_1b9ae94c5b97102f369a929c8d4405fb.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/dir_4e4e2e75df7fa6971448b424c011c8b5.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/dir_ce37d74e70c7bb897cdcd6fa3def2c7f.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/doc.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/doxygen.css</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/doxygen.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/dynsections.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/folderclosed.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/folderopen.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/functions.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/functions_func.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/hierarchy.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/index.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/jquery.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/nav_f.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/nav_g.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/nav_h.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/open.png</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/html/search</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_0.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_0.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_1.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_1.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_2.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_2.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_3.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_3.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_4.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_4.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_5.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_5.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_6.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_6.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_7.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_7.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_8.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_8.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_9.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_9.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_a.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_a.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_b.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_b.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/all_c.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/all_c.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_0.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_0.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_1.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_1.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_2.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_2.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_3.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_3.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_4.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_4.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_5.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_5.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_6.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_6.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_7.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/classes_7.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_8.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_8.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_9.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/classes_9.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/close.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_0.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_0.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_1.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_1.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_2.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_2.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_3.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_3.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_4.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_4.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_5.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_5.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_6.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_6.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/functions_7.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/functions_7.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/mag_sel.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/nomatches.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/search.css</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/search.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/search_l.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/search_m.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/search/search_r.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/search/searchdata.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/splitbar.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/sync_off.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/html/sync_on.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/tab_a.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/tab_b.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/tab_h.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/tab_s.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/html/tabs.css</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/latex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/Makefile</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/annotated.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_bishop.eps</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_bishop.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_chess_board.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_empress.eps</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_empress.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_king.eps</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_king.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_knight.eps</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_knight.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_pawn.eps</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_pawn.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_piece.eps</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_piece.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_player.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_princess.eps</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_princess.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_queen.eps</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_queen.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_1_1_rook.eps</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_rook.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_1_1_square.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_bishop.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_chess_board.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_empress.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_king.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_knight.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_pawn.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_player.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_princess.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_queen.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/class_chess_test_1_1_test_rook.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_g_u_i_1_1_g_u_i_chess.eps</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/class_g_u_i_1_1_g_u_i_chess.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/dir_1b9ae94c5b97102f369a929c8d4405fb.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/dir_4e4e2e75df7fa6971448b424c011c8b5.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/dir_68267d1309a1af8e8297ef4c3efbcdba.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/dir_ce37d74e70c7bb897cdcd6fa3def2c7f.tex</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/latex/doxygen.sty</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/hierarchy.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/latex/refman.tex</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/manual_test_plan.pages</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/manual_test_plan.pdf</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/out</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/out/production</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/Chess</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/Chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/Chess/Empress.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/Chess/King.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Knight.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Piece.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/Chess/Player.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Princess.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Queen.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Rook.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/Chess/Square.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestBishop.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestEmpress.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestKing.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestKnight.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestPawn.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestPrincess.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestQueen.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/ChessTest/TestRook.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/out/production/Assignment1/GUI</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/out/production/Assignment1/img</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/img/bishop_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/img/bishop_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/img/king_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/img/king_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/img/knight_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/img/knight_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/img/pawn_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/img/pawn_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/out/production/Assignment1/img/queen_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/img/queen_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/img/rook_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/out/production/Assignment1/img/rook_white.png</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/src</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.2/src/Chess</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/Chess/ChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/Chess/Empress.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/Chess/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/Chess/Piece.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/Chess/Player.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/Chess/Princess.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/Chess/Rook.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/Chess/Square.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/src/ChessTest</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/ChessTest/TestBishop.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/ChessTest/TestChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/ChessTest/TestEmpress.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/ChessTest/TestKing.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/ChessTest/TestKnight.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/ChessTest/TestPawn.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/ChessTest/TestPlayer.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/ChessTest/TestPrincess.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/ChessTest/TestQueen.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/ChessTest/TestRook.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/src/GUI</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/GUI/GUIChess.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.2/src/img</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/bishop_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/bishop_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/king_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/king_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/knight_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/knight_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/pawn_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/pawn_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.2/src/img/queen_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/queen_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/rook_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.2/src/img/rook_white.png</path>
+</paths>
+<msg>assignment 1.2</msg>
+</logentry>
+<logentry
+   revision="5759">
+<author>test_user</author>
+<date>2016-02-17T05:38:39.351275Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/.idea/misc.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/manual_test_plan.pdf</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/Chess/Piece.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/Chess/Player.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestBishop.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestEmpress.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestKing.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestKnight.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestPawn.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestPrincess.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestQueen.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestRook.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/Chess/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/src/ChessTest/TestBishop.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestEmpress.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestKing.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestKnight.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestPawn.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestPlayer.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/src/ChessTest/TestPrincess.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/src/ChessTest/TestQueen.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/src/ChessTest/TestRook.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/src/GUI/GUIChess.java</path>
+</paths>
+<msg>Rolled back to r4441</msg>
+</logentry>
+<logentry
+   revision="4441">
+<author>test_user</author>
+<date>2016-02-10T21:31:43.242043Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestEmpress.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestPrincess.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/Chess/ChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestEmpress.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/ChessTest/TestPrincess.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/GUI/GUIChess.java</path>
+</paths>
+<msg>revert back chessboard configuration</msg>
+</logentry>
+<logentry
+   revision="4440">
+<author>test_user</author>
+<date>2016-02-10T21:30:06.672583Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/manual_test_plan.pdf</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/Piece.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.1/src/Chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.1/src/GUI/GUIChess.java</path>
+</paths>
+<msg>test for empress and princess and test script for gui</msg>
+</logentry>
+<logentry
+   revision="4362">
+<author>test_user</author>
+<date>2016-02-10T04:23:19.748536Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/ChessBoard.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/Assignment1.iml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/Doxyfile</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1/out</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1/out/production</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/Chess</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/Chess/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/Chess/Empress.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/Chess/King.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/Chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/Chess/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/Player.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/Princess.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/Chess/Queen.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/Rook.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/Chess/Square.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1/out/production/Assignment1/ChessTest</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestBishop.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestKing.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestKnight.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestPawn.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestQueen.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/ChessTest/TestRook.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1/out/production/Assignment1/GUI</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/GUI/GUIChess.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/img</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/img/bishop_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/img/bishop_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/img/king_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/img/king_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/img/knight_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/img/knight_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/img/pawn_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/img/pawn_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/out/production/Assignment1/img/queen_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/img/queen_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/img/rook_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/out/production/Assignment1/img/rook_white.png</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1/src/Chess</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/Chess/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/Chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/Chess/Empress.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/Chess/King.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/Chess/Knight.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/Chess/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/Chess/Princess.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/Chess/Queen.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/Chess/Square.java</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.1/src/ChessTest</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/ChessTest/TestBishop.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/ChessTest/TestChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestKing.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestKnight.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestPawn.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/ChessTest/TestPlayer.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestQueen.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/ChessTest/TestRook.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.1/src/GUI</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/GUI/GUIChess.java</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.1/src/img</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/img/bishop_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/img/bishop_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/img/king_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/img/king_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/img/knight_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/img/knight_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/img/pawn_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/img/pawn_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.1/src/img/queen_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/img/queen_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/img/rook_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.1/src/img/rook_white.png</path>
+</paths>
+<msg>chessboard static gui implemented</msg>
+</logentry>
+<logentry
+   revision="3534">
+<author>test_user</author>
+<date>2016-02-04T22:27:33.816428Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/Chess/Player.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/Chess/Player.java</path>
+</paths>
+<msg>minor changes on chess</msg>
+</logentry>
+<logentry
+   revision="3528">
+<author>test_user</author>
+<date>2016-02-04T22:01:41.388134Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/Chess/ChessBoard.java</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/.classpath</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/.idea</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/.idea/libraries</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/.idea/libraries/HW0.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/COPYING</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/HW0.iml</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/bin</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/doc/README</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/doc/toDoList</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/out</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0/out/production</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/out/production/HW0</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/out/production/HW0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/out/production/HW0/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/out/production/HW0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0/out/production/HW0/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/out/production/HW0/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/out/production/HW0/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0/out/production/HW0/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/out/production/HW0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/out/production/HW0/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/src</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/test_user/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/test_user/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="file">/test_user/HW0/useOutput.txt</path>
+</paths>
+<msg>submitting hw 0</msg>
+</logentry>
+<logentry
+   revision="3522">
+<author>test_user</author>
+<date>2016-02-04T21:34:10.564823Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/.idea/misc.xml</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/Chess/Bishop.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/Chess/King.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Knight.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Pawn.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Piece.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/Chess/Player.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Queen.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Rook.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Square.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestBishop.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestKing.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestKnight.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestPawn.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestQueen.class</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestRook.class</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/Chess/Knight.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/Chess/Square.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/ChessTest/TestBishop.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/ChessTest/TestChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/ChessTest/TestKing.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/ChessTest/TestKnight.java</path>
+<path
+   kind="file"
+   action="M">/test_user/Assignment1.0/src/ChessTest/TestPawn.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/ChessTest/TestPlayer.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/ChessTest/TestQueen.java</path>
+<path
+   action="M"
+   kind="file">/test_user/Assignment1.0/src/ChessTest/TestRook.java</path>
+</paths>
+<msg>added documentation on chess</msg>
+</logentry>
+<logentry
+   revision="3193">
+<author>test_user</author>
+<date>2016-02-03T21:05:49.588720Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/test_user/Assignment1</path>
+</paths>
+<msg>deleted assignment1</msg>
+</logentry>
+<logentry
+   revision="3192">
+<author>test_user</author>
+<date>2016-02-03T21:04:20.555750Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.0</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.0/.idea</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/Assignment1.iml</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.0/out</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.0/out/production</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.0/out/production/Assignment1</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.0/out/production/Assignment1/Chess</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/Chess/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/King.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/Chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/Chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/Chess/Player.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/Chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/Chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/Chess/Square.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/ChessTest</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestBishop.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestKing.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestKnight.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestPawn.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestQueen.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/out/production/Assignment1/ChessTest/TestRook.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.0/src</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1.0/src/Chess</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/Chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/Chess/Pawn.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.0/src/Chess/Piece</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/Chess/Queen.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/src/Chess/Rook.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/src/Chess/Square.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1.0/src/ChessTest</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/ChessTest/TestBishop.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/ChessTest/TestChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/ChessTest/TestKing.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1.0/src/ChessTest/TestKnight.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/ChessTest/TestPawn.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/ChessTest/TestPlayer.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/ChessTest/TestQueen.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1.0/src/ChessTest/TestRook.java</path>
+</paths>
+<msg>renamed assignment 1 name</msg>
+</logentry>
+<logentry
+   revision="3185">
+<author>test_user</author>
+<date>2016-02-03T21:00:06.919863Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/home.js</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/.idea</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/Assignment1.iml</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/out</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/out/production</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/out/production/Assignment1</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/out/production/Assignment1/Chess</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/Chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/Chess/ChessBoard.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/Chess/King.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/Chess/Knight.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/Chess/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/Chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/Chess/Player.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/Chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/Chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/Chess/Square.class</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1/out/production/Assignment1/ChessTest</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestBishop.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestKing.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestKnight.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestPawn.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestPlayer.class</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestQueen.class</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/out/production/Assignment1/ChessTest/TestRook.class</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/src</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/src/Chess</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/Chess/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/Chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/Chess/King.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/Chess/Knight.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/Chess/Pawn.java</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment1/src/Chess/Piece</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/Chess/Piece.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/Chess/Square.java</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment1/src/ChessTest</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/ChessTest/TestBishop.java</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment1/src/ChessTest/TestChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/ChessTest/TestKing.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/ChessTest/TestKnight.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/ChessTest/TestPawn.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/ChessTest/TestPlayer.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/ChessTest/TestQueen.java</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment1/src/ChessTest/TestRook.java</path>
+</paths>
+<msg>committing assignment 1.0 chess</msg>
+</logentry>
+<logentry
+   revision="730">
+<author>test_user</author>
+<date>2016-01-27T04:09:02.362788Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.bowerrc</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.editorconfig</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/HEAD</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/config</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/description</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/hooks</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/applypatch-msg.sample</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/commit-msg.sample</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/post-update.sample</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/pre-applypatch.sample</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/pre-commit.sample</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/pre-push.sample</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/pre-rebase.sample</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/hooks/update.sample</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/index</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/info</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/info/exclude</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/logs</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/logs/HEAD</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/logs/refs</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/logs/refs/heads</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/logs/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/logs/refs/remotes</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/logs/refs/remotes/origin</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/logs/refs/remotes/origin/HEAD</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/objects</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/objects/info</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/objects/pack</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/objects/pack/pack-10fcec2517285fb49ebcdd830cdc83d0865b4d1e.idx</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/objects/pack/pack-10fcec2517285fb49ebcdd830cdc83d0865b4d1e.pack</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/packed-refs</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/refs</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/refs/heads</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/refs/remotes</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.git/refs/remotes/origin</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.git/refs/remotes/origin/HEAD</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/.git/refs/tags</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.gitattributes</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/.gitignore</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.jshintrc</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/.yo-rc.json</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/Gruntfile.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/README.md</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/.buildignore</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/.htaccess</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/404.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/favicon.ico</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/images</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_down_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_down_grey.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_left_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_left_grey.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_left_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_right_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_right_grey.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/arrow_right_white.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/cross_black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/cross_grey.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/cross_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/next_grey.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/next_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/prev_grey.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/prev_white.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/small_arrow_down_black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/arrows/small_arrow_down_grey.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/facebook_preview.jpeg</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/images/logos</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/email-logo-black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/email-logo-grey.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/facebook-logo-black.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/facebook-logo-grey.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/github-logo-black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/github-logo-grey.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/instagram-logo-black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/instagram-logo-grey.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/linkedin-logo-black.png</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/logos/linkedin-logo-grey.png</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/images/photos</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-1.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-10.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-100.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-101.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-102.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-103 copy.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-103.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-104.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-105.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-106.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-107.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-108.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-109.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-11.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-110.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-12.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-13.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-14.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-15.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-16.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-17.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-18.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-19.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-2.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-20.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-21.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-22.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-23.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-24.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-25.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-26.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-27.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-28.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-29.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-31.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-32.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-33.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-34.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-35.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-36.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-37.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-38.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-39.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-40.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-42.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-43.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-44.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-45.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-46.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-48.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-5.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-50.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-51.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-53.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-54.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-55.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-56.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-57.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-58.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-6.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-65.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-69.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-7.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-71.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-73.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-74.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-75.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-76.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-77.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-79.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-8.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-81.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-82.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-83.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-84.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-85.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-88.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-9.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-90.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-91.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-92.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-93.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-94.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-95.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-96.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-97.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-98.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/photos/HTJ-99.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/profile.jpeg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/profile.jpg</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-1.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-10.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-100.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-101.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-102.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-103 copy.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-103.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-104.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-105.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-106.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-107.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-108.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-109.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-11.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-110.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-12.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-13.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-14.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-15.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-16.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-17.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-18.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-19.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-2.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-20.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-21.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-22.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-23.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-24.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-25.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-26.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-27.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-28.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-29.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-31.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-32.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-33.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-34.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-35.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-36.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-37.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-38.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-39.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-40.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-42.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-43.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-44.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-45.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-46.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-48.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-5.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-50.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-51.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-53.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-54.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-55.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-56.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-57.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-58.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-6.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-65.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-69.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-7.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-71.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-73.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-74.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-75.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-76.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-77.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-79.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-8.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-81.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-82.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-83.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-84.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-85.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-88.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-9.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-90.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-91.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-92.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-93.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-94.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-95.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-96.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-97.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-98.jpg</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/images/thumbnails/HTJ-99.jpg</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/images/yeoman.png</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/index.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/robots.txt</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/scripts</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/app.js</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/scripts/controllers</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/controllers/about.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/controllers/base.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/controllers/contact.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/controllers/gallery.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/controllers/home.js</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/about</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/about/base.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/about/profile.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/about/resume.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/about.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/contact.js</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/gallery</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/gallery/album.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/gallery/lightbox.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/gallery.js</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/directives/home.js</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/scripts/filters</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/filters/gallery.js</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/scripts/services</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/scripts/services/gallery.js</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/base.css.less</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/fonts</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/fonts/NeueHaasGrotesk-bold.ttf</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/styles/fonts/NeueHaasGrotesk-semibold.ttf</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/fonts/NeueHaasGrotesk.ttf</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/fonts/didot-italic.ttf</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/fonts/didot.ttf</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/substyles</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/substyles/about.css.less</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/styles/substyles/contact.css.less</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/styles/substyles/gallery.css.less</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/styles/substyles/home.css.less</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/views</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/views/about</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/views/about/_description.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/about/_profile.html</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/app/views/about/_resume.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/about/base.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/about.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/base.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/contact.html</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/app/views/gallery</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/gallery/album.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/gallery.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/app/views/home.html</path>
+<path
+   action="A"
+   kind="file">/test_user/Assignment0/test_user_dir_2.0/bower.json</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/package.json</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/test</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/test/.jshintrc</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/test/karma.conf.js</path>
+<path
+   action="A"
+   kind="dir">/test_user/Assignment0/test_user_dir_2.0/test/spec</path>
+<path
+   kind="dir"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/test/spec/controllers</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/test/spec/controllers/about.js</path>
+<path
+   kind="file"
+   action="A">/test_user/Assignment0/test_user_dir_2.0/test/spec/controllers/main.js</path>
+</paths>
+<msg>sample code</msg>
+</logentry>
+<logentry
+   revision="351">
+<author>test_user</author>
+<date>2016-01-25T23:44:01.851778Z</date>
+<paths>
+<path
+   action="M"
+   kind="dir">/test_user/shopping</path>
+<path
+   kind="file"
+   action="A">/test_user/shopping/list3.txt</path>
+</paths>
+<msg>including previously ignored files</msg>
+</logentry>
+<logentry
+   revision="345">
+<author>test_user</author>
+<date>2016-01-25T23:24:14.842488Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/test_user/shopping</path>
+</paths>
+<msg>Ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="343">
+<author>test_user</author>
+<date>2016-01-25T23:18:42.617541Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/test_user/grocery</path>
+<path
+   kind="dir"
+   copyfrom-path="/test_user/grocery"
+   copyfrom-rev="342"
+   action="A">/test_user/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="342">
+<author>test_user</author>
+<date>2016-01-25T23:16:55.654111Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/test_user/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="341">
+<author>test_user</author>
+<date>2016-01-25T23:16:27.230283Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/test_user/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="340">
+<author>test_user</author>
+<date>2016-01-25T23:13:56.133565Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="338">
+<author>test_user</author>
+<date>2016-01-25T22:52:29.095600Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="337">
+<author>test_user</author>
+<date>2016-01-25T22:51:38.118164Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="336">
+<author>test_user</author>
+<date>2016-01-25T22:50:56.873093Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="335">
+<author>test_user</author>
+<date>2016-01-25T22:46:21.493037Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="334">
+<author>test_user</author>
+<date>2016-01-25T22:44:50.695871Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit </msg>
+</logentry>
+<logentry
+   revision="333">
+<author>test_user</author>
+<date>2016-01-25T22:42:29.119672Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/test_user/grocery</path>
+<path
+   kind="file"
+   action="A">/test_user/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="330">
+<author>test_user</author>
+<date>2016-01-25T22:37:49.219364Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/test_user/grocery</path>
+</paths>
+<msg>reset</msg>
+</logentry>
+<logentry
+   revision="329">
+<author>test_user</author>
+<date>2016-01-25T22:35:19.932596Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="328">
+<author>test_user</author>
+<date>2016-01-25T22:30:31.694380Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="327">
+<author>test_user</author>
+<date>2016-01-25T22:28:38.827208Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/test_user/grocery/list1.txt</path>
+</paths>
+<msg>need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="326">
+<author>test_user</author>
+<date>2016-01-25T22:25:37.495708Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/test_user/grocery</path>
+<path
+   kind="file"
+   action="A">/test_user/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/test_user/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="75">
+<author>root</author>
+<date>2016-01-21T17:21:38.942629Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/test_user</path>
+</paths>
+<msg>created directory test_user</msg>
+</logentry>
+</log>

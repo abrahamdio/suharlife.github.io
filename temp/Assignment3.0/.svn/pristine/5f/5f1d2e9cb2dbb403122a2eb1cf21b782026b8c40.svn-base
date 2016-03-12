@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="container">
+        <div class="row">
+            <div class=" col-md-6 col-md-offset-3 col-lg-4 col-sm-6">
+                <div class="jumbotron">
+                    <div class="container">
+                        <form action="{{ url_for('upload_file') }}" method=post enctype=multipart/form-data>
+                            <div class="form-group">
+                                <label for="list">List File</label>
+                                <input type="file" id="list" name="list">
+                            </div>
+                            <div class="form-group">
+                                <label for="list">Log File</label>
+                                <input type="file" id="list" name="log">
+
+                            </div>
+                            <input class="form-control" type=submit value=Upload>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% include 'script.html' %}
+
+</body>
+</html>

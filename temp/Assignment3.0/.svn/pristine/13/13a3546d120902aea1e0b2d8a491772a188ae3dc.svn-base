@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+    <list path="https://subversion.ews.illinois.edu/svn/sp16-cs242/suharli2">
+        <entry kind="dir">
+            <name>.idea</name>
+            <commit revision="1112">
+                <author>test_user_1</author>
+                <date>2016-03-08T03:35:29.861337Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>.idea/.name</name>
+            <size>1111</size>
+            <commit revision="1112">
+                <author>test_user_2</author>
+                <date>2016-03-08T03:35:29.861337Z</date>
+            </commit>
+        </entry>
+        <entry kind="dir">
+            <name>test_folder</name>
+            <size>22222</size>
+            <commit revision="4448">
+                <author>suharli2</author>
+                <date>2016-03-08T03:35:29.861337Z</date>
+            </commit>
+        </entry>
+        <entry kind="dir">
+            <name>test_folder/child_folder</name>
+            <size>3333</size>
+            <commit revision="1234">
+                <author>james</author>
+                <date>2016-02-08T03:35:29.861337Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>test_folder/child_folder/test_file.txt</name>
+            <size>3333</size>
+            <commit revision="3344">
+                <author>suharli2</author>
+                <date>2016-02-08T03:35:29.861337Z</date>
+            </commit>
+        </entry>
+    </list>
+</lists>

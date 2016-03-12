@@ -1,0 +1,33 @@
+from flask import Flask, request, session, g, redirect, url_for, abort, render_template, flash
+import xmltodict
+import os.path
+import json
+from xml_helper import xml_obj
+
+
+APP_ROOT = os.path.dirname(os.path.abspath(__file__))
+APP_STATIC = os.path.join(APP_ROOT, 'static')
+APP_TEMPLATES = os.path.join(APP_ROOT, 'templates')
+APP_SVN = "https://subversion.ews.illinois.edu/svn/sp16-cs242/suharli2/"
+xml_list = os.path.join(APP_STATIC, 'svn_list.xml')
+xml_log = os.path.join(APP_STATIC, 'svn_log.xml')
+xml = xml_obj(xml_list, xml_log)
+app = Flask(__name__)
+
+
+@app.route('/')
+def hello_world():
+    return render_template('index.html', projects=xml.get_projects())
+
+
+@app.route('/tree/<path:url>')
+def directory(url):
+    files = xml.get_files(url)
+    dirs = xml.get_dirs(url)
+    log = {}
+    url_split = url.split('/')
+    return render_template('show.html', files=files, dirs=dirs, url=url_split, APP_SVN=APP_SVN, _url=url, log=log)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)

@@ -1,0 +1,92 @@
+import xmltodict
+import json
+from collections import defaultdict
+from log_entry import log_entry
+
+class xml_obj(object):
+
+    def __init__(self, xml_list_file, xml_log_file):
+        self._dir = defaultdict(set)
+        self._projects = {}
+        self._log = {}
+        self._file_log = {}
+
+        with open(xml_list_file) as fd:
+            doc = xmltodict.parse(fd.read())
+
+        with open(xml_log_file) as fd:
+            log = xmltodict.parse(fd.read())
+
+        # print(log)
+        for logentry in log["log"]["logentry"]:
+            dict = {}
+            dict["revision"] = logentry["@revision"]
+            dict["author"] = logentry["author"]
+            dict["date"] = logentry["date"]
+            dict["msg"] = logentry["msg"]
+            entry = log_entry(dict, logentry["paths"], self._file_log)
+            self._log[logentry["@revision"]] = entry
+
+        self.get_recent_file_log("Assignment2.1/csair/graph.py")
+
+
+        for entry in doc['lists']['list']['entry']:
+            if entry["@kind"] == "dir":
+                self._dir[entry['name']].add(None)
+                full_dir = entry["name"].split('/')
+                if len(full_dir) == 1:
+                    self._projects[entry["name"]] = "this is a project"
+                if len(full_dir) > 1:
+                    sep = "/"
+                    path = sep.join(full_dir[:-1])
+                    self._dir[path].add((entry["name"], "dir"))
+
+            if entry["@kind"] == "file":
+                full_dir = entry["name"].split('/')
+                sep = "/"
+                path = sep.join(full_dir[:-1])
+                self._dir[path].add((full_dir[len(full_dir)-1], "file"))
+
+
+    def get_projects(self):
+        return self._projects
+
+    def get_files(self, key):
+        result = {}
+        for file in self._dir[key]:
+            if file is not None and file[1] == "file":
+                url = "{}/{}".format(key, file[0])
+                get_log = self.get_recent_file_log(url)
+                name = file[0]
+                author = get_log["author"]
+                revision = get_log["revision"]
+                date = get_log["date"]
+                message = get_log["message"]
+                result[file[0]] = {"name": name, "author": author, "revision": revision, "date": date, "message": message}
+
+        return result
+
+    def get_dirs(self, key):
+        result = {}
+        for dir in self._dir[key]:
+            # print(key)
+            if dir is not None and dir[1] == "dir":
+                url = "{}".format(key)
+                get_log = self.get_recent_file_log(url)
+                name = dir[0].split("/")
+                name = name[len(name)-1]
+                author = get_log["author"]
+                revision = get_log["revision"]
+                date = get_log["date"]
+                message = get_log["message"]
+                result[dir[0]] = {"name": name, "author": author, "revision": revision, "date": date, "message": message}
+        return result
+
+    def get_recent_file_log(self, key):
+        rev = self._file_log[key]
+        result = {}
+        result["author"] = self._log[rev]._author
+        result["revision"] = self._log[rev]._revision
+        result["date"] = self._log[rev]._date
+        result["message"] = self._log[rev]._message
+        return result

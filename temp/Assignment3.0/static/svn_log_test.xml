@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+    <logentry revision="160">
+        <author>test_user_1</author>
+        <date>2016-01-21T17:21:41.411732Z</date>
+        <paths>
+            <path kind="dir" action="A">/suharli2/.idea</path>
+        </paths>
+        <msg>created idea folder</msg>
+    </logentry>
+    <logentry revision="1111">
+        <author>test_user_2</author>
+        <date>2016-01-21T17:21:41.411732Z</date>
+        <paths>
+            <path kind="file" action="A">/suharli2/.idea/.name</path>
+        </paths>
+        <msg>created idea name</msg>
+    </logentry>
+    <logentry revision="1112">
+        <author>test_user_2</author>
+        <date>2016-01-21T17:21:41.411732Z</date>
+        <paths>
+            <path kind="file" action="M">/suharli2/.idea/.name</path>
+        </paths>
+        <msg>modified idea name</msg>
+    </logentry>
+    <logentry revision="4448">
+        <author>suharli2</author>
+        <date>2016-03-21T17:21:41.411732Z</date>
+        <paths>
+            <path kind="dir" action="A">/suharli2/test_folder</path>
+        </paths>
+        <msg>created test_folder</msg>
+    </logentry>
+    <logentry revision="1234">
+        <author>james</author>
+        <date>2016-02-21T17:21:41.411732Z</date>
+        <paths>
+            <path kind="dir" action="M">/suharli2/test_folder/child_folder</path>
+        </paths>
+        <msg>created child_folder</msg>
+    </logentry>
+    <logentry revision="3344">
+        <author>james</author>
+        <date>2016-02-21T17:21:41.411732Z</date>
+        <paths>
+            <path kind="file" action="M">/suharli2/test_folder/child_folder/test_file.txt</path>
+        </paths>
+        <msg>created test_file.txt</msg>
+    </logentry>
+</log>

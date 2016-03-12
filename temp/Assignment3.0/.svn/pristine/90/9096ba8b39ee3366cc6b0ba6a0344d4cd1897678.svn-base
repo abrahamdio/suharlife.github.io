@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                {% set id = "" %}
+                {% for path in url %}
+                    {% set id = id + "/" + path %}
+                    <li><a href="{{ APP_ROOT }}/tree{{ id }}">{{ path }}</a></li>
+                {% endfor %}
+                </ol>
+                <table class="table">
+                    <thead>
+                        <th>Filename</th>
+                        <th>Author</th>
+                        <th>Rev</th>
+                        <th>Date</th>
+                        <th>Message</th>
+                    </thead>
+                    <tbody>
+                        {% for dir in dirs %}
+                            <tr>
+                                <td class="text-nowrap">
+                                    <a href="{{ APP_ROOT }}/tree/{{ dir }}">{{ dirs[dir]["name"] }}</a>
+                                </td>
+                                <td class="text-nowrap">
+                                    {{ dirs[dir]["author"] }}
+                                </td>
+                                <td class="text-nowrap">
+                                    <a href="{{ APP_ROOT }}/rev/{{ dirs[dir]["revision"] }}">{{ dirs[dir]["revision"] }}</a>
+                                </td>
+                                <td class="text-nowrap">
+                                    {{ dirs[dir]["date"] }}
+                                </td>
+                                <td class="text-nowrap">
+                                    {{ dirs[dir]["message"] }}
+                                </td>
+
+                            </tr>
+                        {% endfor %}
+                        {% for file in files %}
+                            <tr>
+                                <td class="text-nowrap">
+                                    <a href="{{ APP_SVN }}{{ _url }}/{{ files[file]["name"] }}">{{ files[file]["name"] }}</a>
+                                </td>
+                                <td class="text-nowrap">
+                                    {{ files[file]["author"] }}
+                                </td>
+                                <td class="text-nowrap">
+                                    <a href="{{ APP_ROOT }}/rev/{{ files[file]["revision"] }}">{{ files[file]["revision"] }}</a>
+                                </td>
+                                <td class="text-nowrap">
+                                    {{ files[file]["date"]}}
+                                </td>
+                                <td class="text-nowrap">
+                                    {{ files[file]["message"] }}
+                                </td>
+
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+    <script>
+
+
+
+
+    </script>
+</body>
+</html>

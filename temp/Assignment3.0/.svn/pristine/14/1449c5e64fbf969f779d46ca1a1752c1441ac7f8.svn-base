@@ -1,0 +1,40 @@
+from collections import OrderedDict
+import collections
+import json
+
+
+class log_entry(object):
+
+    def __init__(self, dict, path, file_log, file_log_1):
+        self._revision = dict["revision"]
+        self._author = dict["author"]
+        self._date = dict["date"]
+        self._message = dict["msg"]
+        self._paths = []
+
+        out = json.loads(json.dumps(path['path']))
+        if isinstance(out, list):
+            for key in out:
+                kind = key["@kind"]
+                action = key["@action"]
+                url = key["#text"]
+                url = url.split("/")
+                sep = "/"
+                url_univ = sep.join(url[2:])
+                self._paths.append( (kind, action, url_univ) )
+                # TODO Need to make sure to store the latest revision
+                # TODO Or convert file_log into defaultdict(set)
+                file_log[url_univ] = self._revision
+                file_log_1[url_univ].add(int(self._revision))
+        else:
+            kind = out["@kind"]
+            action = out["@action"]
+            url = out["#text"]
+            print(url)
+            self._paths.append((kind, action, url))
+
+        # print(file_log_1)
+
+        # print(self._paths)
+    def get_revision(self):
+        return self._revision

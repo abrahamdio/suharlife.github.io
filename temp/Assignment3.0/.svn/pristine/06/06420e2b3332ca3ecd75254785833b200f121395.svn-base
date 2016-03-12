@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs242/suharli2/Assignment2.1">
+<entry kind="dir">
+            <name>Assignment2.0</name>
+            <commit revision="7096">
+                <author>suharli2</author>
+                <date>2016-02-25T22:55:36.473098Z</date>
+            </commit>
+        </entry>
+        <entry kind="dir">
+            <name>Assignment2.0/.idea</name>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/.idea/.name</name>
+            <size>5</size>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/.idea/csair.iml</name>
+            <size>398</size>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/.idea/encodings.xml</name>
+            <size>159</size>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/.idea/misc.xml</name>
+            <size>853</size>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/.idea/modules.xml</name>
+            <size>262</size>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/.idea/vcs.xml</name>
+            <size>180</size>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/.idea/workspace.xml</name>
+            <size>23367</size>
+            <commit revision="6791">
+                <author>suharli2</author>
+                <date>2016-02-24T10:02:06.535732Z</date>
+            </commit>
+        </entry>
+        <entry kind="dir">
+            <name>Assignment2.0/csair</name>
+            <commit revision="7096">
+                <author>suharli2</author>
+                <date>2016-02-25T22:55:36.473098Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/csair/__init__.py</name>
+            <size>0</size>
+            <commit revision="6854">
+                <author>suharli2</author>
+                <date>2016-02-25T02:14:51.529749Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/csair/data.json</name>
+            <size>16096</size>
+            <commit revision="6795">
+                <author>suharli2</author>
+                <date>2016-02-24T10:07:30.616202Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/csair/graph.py</name>
+            <size>9151</size>
+            <commit revision="7096">
+                <author>suharli2</author>
+                <date>2016-02-25T22:55:36.473098Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/csair/graph_unit_test.py</name>
+            <size>2242</size>
+            <commit revision="6854">
+                <author>suharli2</author>
+                <date>2016-02-25T02:14:51.529749Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/csair/main.py</name>
+            <size>2034</size>
+            <commit revision="7096">
+                <author>suharli2</author>
+                <date>2016-02-25T22:55:36.473098Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.0/csair/true_graph.py</name>
+            <size>5585</size>
+            <commit revision="6854">
+                <author>suharli2</author>
+                <date>2016-02-25T02:14:51.529749Z</date>
+            </commit>
+        </entry>
+        <entry kind="dir">
+            <name>Assignment2.1</name>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="dir">
+            <name>Assignment2.1/csair</name>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/__init__.py</name>
+            <size>0</size>
+            <commit revision="7522">
+                <author>suharli2</author>
+                <date>2016-02-29T01:28:28.328275Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/cmi_hub.json</name>
+            <size>1104</size>
+            <commit revision="7543">
+                <author>suharli2</author>
+                <date>2016-02-29T07:49:59.063614Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/data.json</name>
+            <size>16096</size>
+            <commit revision="7522">
+                <author>suharli2</author>
+                <date>2016-02-29T01:28:28.328275Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/graph.py</name>
+            <size>24761</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/graph_unit_test.py</name>
+            <size>8371</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/help.txt</name>
+            <size>778</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/main.py</name>
+            <size>5701</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/out.json</name>
+            <size>2413</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/out.txt</name>
+            <size>403</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/test.json</name>
+            <size>2988</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="dir">
+            <name>Assignment2.1/csair/unit_files</name>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/mini_graph.json</name>
+            <size>811</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_add_city.json</name>
+            <size>3319</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_add_route.json</name>
+            <size>3121</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_delete_route.json</name>
+            <size>2991</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_edit_city.json</name>
+            <size>3017</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_get_all_city.txt</name>
+            <size>542</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_get_all_routes_url.txt</name>
+            <size>460</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_get_city.txt</name>
+            <size>1790</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_get_city_url.txt</name>
+            <size>300</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_get_continents.txt</name>
+            <size>524</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_get_hub.txt</name>
+            <size>302</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_info_route.txt</name>
+            <size>403</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_load.json</name>
+            <size>3753</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_print.json</name>
+            <size>2988</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_remove_city.json</name>
+            <size>2413</size>
+            <commit revision="7689">
+                <author>suharli2</author>
+                <date>2016-03-02T02:53:37.954503Z</date>
+            </commit>
+        </entry>
+        <entry kind="file">
+            <name>Assignment2.1/csair/unit_files/test_shortest_path.txt</name>
+            <size>403</size>
+            <commit revision="7865">
+                <author>suharli2</author>
+                <date>2016-03-03T10:20:30.166470Z</date>
+            </commit>
+        </entry>
+</list>
+</lists>

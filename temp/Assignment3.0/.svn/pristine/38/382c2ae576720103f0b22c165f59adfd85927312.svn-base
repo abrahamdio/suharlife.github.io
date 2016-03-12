@@ -1,0 +1,16 @@
+from flask import Flask
+import xmltodict
+
+app = Flask(__name__)
+
+
+@app.route('/')
+def hello_world():
+    import xmltodict
+
+    with open('/svn_list.xml') as fd:
+        doc = xmltodict.parse(fd.read())
+    return doc
+
+if __name__ == '__main__':
+    app.run(debug=True)

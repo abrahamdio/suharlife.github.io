@@ -1,0 +1,4686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs242/suharli2">
+<entry
+   kind="dir">
+<name>.idea</name>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/.name</name>
+<size>13</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/Assignment3.0.iml</name>
+<size>639</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>.idea/dictionaries</name>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/dictionaries/dio.xml</name>
+<size>82</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/misc.xml</name>
+<size>1442</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.idea/workspace.xml</name>
+<size>20535</size>
+<commit
+   revision="8430">
+<author>suharli2</author>
+<date>2016-03-08T03:35:29.861337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/bin</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/._lanSimulation</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/bin/lanSimulation</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/._LANSimulation.class</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/._Network.class</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/._internals</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/._tests</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/LANSimulation.class</name>
+<size>4544</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/Network.class</name>
+<size>7873</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/bin/lanSimulation/internals</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/internals/._Node.class</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/internals/._Packet.class</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/internals/Node.class</name>
+<size>1218</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/bin/lanSimulation/tests</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/tests/._LANTests$PreconditionViolationTestCase.class</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/tests/._LANTests.class</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9528</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/doc</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/._LANSimulationDocument.pdf</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/._README</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/._RefactoringAssignment.pdf</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/._toDoList</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/hw0.iml</name>
+<size>660</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/out</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/out/production</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/out/production/hw0</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/LANSimulation.class</name>
+<size>4472</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/Network.class</name>
+<size>7322</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/internals</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/internals/Node.class</name>
+<size>3031</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/tests</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1074</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/out/production/hw0/lanSimulation/tests/LANTests.class</name>
+<size>10232</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/src</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/._lanSimulation</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/src/lanSimulation</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/._LANSimulation.java</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/._internals</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/._tests</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/Network.java</name>
+<size>11934</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/src/lanSimulation/internals</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/internals/._Packet.java</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/internals/Node.java</name>
+<size>4237</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/hw0/src/lanSimulation/tests</name>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/tests/._LANTests.java</name>
+<size>4096</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/hw0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1919">
+<author>suharli2</author>
+<date>2016-01-28T20:05:03.799556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/mp7</name>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/._unsolved.png</name>
+<size>4096</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/._unsolved1.png</name>
+<size>4096</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/Makefile</name>
+<size>1998</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/dsets.cpp</name>
+<size>617</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/dsets.h</name>
+<size>263</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/grade_report.txt</name>
+<size>1364</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/grade_report_extra_credit.txt</name>
+<size>743</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/grade_report_final.txt</name>
+<size>1275</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/m0.png</name>
+<size>142</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/m1.png</name>
+<size>144</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/m2.png</name>
+<size>150</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/m3.png</name>
+<size>146</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/maze-95.cpp</name>
+<size>12437</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/maze.cpp</name>
+<size>12447</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/maze.cpp~</name>
+<size>4731</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/maze.h</name>
+<size>1322</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/maze.h~</name>
+<size>838</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/mp7.doxygen</name>
+<size>76496</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/mp7/objs</name>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/dsets-asan.d</name>
+<size>47</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/dsets.d</name>
+<size>42</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/maze-asan.d</name>
+<size>101</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/maze.d</name>
+<size>96</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/png.d</name>
+<size>60</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/rgbapixel.d</name>
+<size>58</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/testdsets.d</name>
+<size>50</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/objs/testsquaremaze.d</name>
+<size>120</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/png.cpp</name>
+<size>9907</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/png.h</name>
+<size>5406</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/rgbapixel.cpp</name>
+<size>1197</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/rgbapixel.h</name>
+<size>2559</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/soln_testdsets.out</name>
+<size>39</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/soln_testsquaremaze.out</name>
+<size>85</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/solved.png</name>
+<size>289</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/testdsets</name>
+<size>508389</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/testdsets-asan</name>
+<size>2647980</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/testdsets.cpp</name>
+<size>634</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/testsquaremaze</name>
+<size>1245801</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/testsquaremaze-asan</name>
+<size>4044569</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/testsquaremaze.cpp</name>
+<size>732</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/testsquaremaze.cpp~</name>
+<size>755</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/unsolved.png</name>
+<size>234</size>
+<commit
+   revision="3311">
+<author>suharli2</author>
+<date>2016-02-04T06:58:10.665391Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mp7/unsolved1.png</name>
+<size>128</size>
+<commit
+   revision="1922">
+<author>suharli2</author>
+<date>2016-01-28T20:09:06.065712Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/svntutorial</name>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/svntutorial/grocery</name>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/grocery/list1.txt</name>
+<size>41</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/grocery/list2.txt</name>
+<size>41</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/svntutorial/localgrocery</name>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/localgrocery/list1.txt</name>
+<size>55</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/localgrocery/list2.txt</name>
+<size>67</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/localgrocery/list3.txt</name>
+<size>7</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/svntutorial/localgrocerydup</name>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/localgrocerydup/._list2.txt</name>
+<size>4096</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/localgrocerydup/list1.txt</name>
+<size>55</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/svntutorial/localgrocerydup/list2.txt</name>
+<size>67</size>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/svntutorial/shopping</name>
+<commit
+   revision="1927">
+<author>suharli2</author>
+<date>2016-01-28T20:15:30.141825Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1</name>
+<commit
+   revision="3586">
+<author>suharli2</author>
+<date>2016-02-05T00:58:56.927636Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame</name>
+<commit
+   revision="3586">
+<author>suharli2</author>
+<date>2016-02-05T00:58:56.927636Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/.idea</name>
+<commit
+   revision="3586">
+<author>suharli2</author>
+<date>2016-02-05T00:58:56.927636Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/.idea/copyright</name>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/description.html</name>
+<size>97</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/encodings.xml</name>
+<size>220</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/misc.xml</name>
+<size>2505</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/modules.xml</name>
+<size>258</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/.idea/workspace.xml</name>
+<size>98090</size>
+<commit
+   revision="3580">
+<author>suharli2</author>
+<date>2016-02-05T00:56:50.797603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/ChessGame.iml</name>
+<size>761</size>
+<commit
+   revision="3585">
+<author>suharli2</author>
+<date>2016-02-05T00:58:41.645693Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/out</name>
+<commit
+   revision="3585">
+<author>suharli2</author>
+<date>2016-02-05T00:58:41.645693Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/out/production</name>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/out/production/ChessGame</name>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess</name>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Bishop.class</name>
+<size>1740</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/BoardGame.class</name>
+<size>10131</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Cell.class</name>
+<size>1731</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/King.class</name>
+<size>2709</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Knight.class</name>
+<size>2221</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Main.class</name>
+<size>367</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Pawn.class</name>
+<size>2332</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Piece.class</name>
+<size>4171</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Player.class</name>
+<size>2123</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Queen.class</name>
+<size>2077</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/Chess/Rook.class</name>
+<size>1925</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest</name>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest/TestBishop.class</name>
+<size>2722</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest/TestBoard.class</name>
+<size>5854</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest/TestKing.class</name>
+<size>2603</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest/TestKnight.class</name>
+<size>2184</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest/TestPawn.class</name>
+<size>2513</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest/TestQueen.class</name>
+<size>2852</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/out/production/ChessGame/UnitTest/TestRook.class</name>
+<size>2422</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/src</name>
+<commit
+   revision="3585">
+<author>suharli2</author>
+<date>2016-02-05T00:58:41.645693Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/src/Chess</name>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Bishop.java</name>
+<size>1339</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/BoardGame.java</name>
+<size>18753</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Cell.java</name>
+<size>2222</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/King.java</name>
+<size>3124</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Knight.java</name>
+<size>2918</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Main.java</name>
+<size>119</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Pawn.java</name>
+<size>2442</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Piece.java</name>
+<size>8455</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Player.java</name>
+<size>2477</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Queen.java</name>
+<size>2810</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/Chess/Rook.java</name>
+<size>1559</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1/ChessGame/src/UnitTest</name>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/UnitTest/TestBishop.java</name>
+<size>3106</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/UnitTest/TestBoard.java</name>
+<size>8615</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/UnitTest/TestKing.java</name>
+<size>3269</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/UnitTest/TestKnight.java</name>
+<size>2807</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/UnitTest/TestPawn.java</name>
+<size>3641</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/UnitTest/TestQueen.java</name>
+<size>3900</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1/ChessGame/src/UnitTest/TestRook.java</name>
+<size>2971</size>
+<commit
+   revision="3578">
+<author>suharli2</author>
+<date>2016-02-05T00:54:47.474747Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4392">
+<author>suharli2</author>
+<date>2016-02-10T07:44:31.195941Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame</name>
+<commit
+   revision="4392">
+<author>suharli2</author>
+<date>2016-02-10T07:44:31.195941Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/.idea</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/.idea/copyright</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/description.html</name>
+<size>97</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/encodings.xml</name>
+<size>220</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/misc.xml</name>
+<size>2505</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/modules.xml</name>
+<size>258</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/.idea/workspace.xml</name>
+<size>84341</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/ChessGame.iml</name>
+<size>761</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/Doxyfile</name>
+<size>101666</size>
+<commit
+   revision="4392">
+<author>suharli2</author>
+<date>2016-02-10T07:44:31.195941Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/out</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/out/production</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/out/production/ChessGame</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Bishop.class</name>
+<size>1752</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/BoardGame.class</name>
+<size>8253</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Cell.class</name>
+<size>1771</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Empress.class</name>
+<size>2637</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/GridLayoutManager.class</name>
+<size>5789</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/King.class</name>
+<size>2775</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Knight.class</name>
+<size>2075</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Main.class</name>
+<size>367</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Pawn.class</name>
+<size>2367</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Piece.class</name>
+<size>5106</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Player.class</name>
+<size>2515</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Princess.class</name>
+<size>2483</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Queen.class</name>
+<size>2030</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/Rook.class</name>
+<size>1917</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/blackBishop.png</name>
+<size>905</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/blackKing.png</name>
+<size>1955</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/blackKnight.png</name>
+<size>1239</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/blackPawn.png</name>
+<size>558</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/blackQueen.png</name>
+<size>1797</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/blackRook.png</name>
+<size>622</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/whiteBishop.png</name>
+<size>1481</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/whiteKing.png</name>
+<size>1912</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/whiteKnight.png</name>
+<size>1508</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/whitePawn.png</name>
+<size>878</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/whiteQueen.png</name>
+<size>2342</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/Chess/icon/whiteRook.png</name>
+<size>812</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestBishop.class</name>
+<size>3296</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestBoard.class</name>
+<size>6640</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestEmpress.class</name>
+<size>2364</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestKing.class</name>
+<size>2931</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestKnight.class</name>
+<size>2518</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestPawn.class</name>
+<size>2751</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestPrincess.class</name>
+<size>2402</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestQueen.class</name>
+<size>3395</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/out/production/ChessGame/UnitTest/TestRook.class</name>
+<size>3105</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/src</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/src/Chess</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Bishop.java</name>
+<size>2110</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/BoardGame.java</name>
+<size>15805</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Cell.java</name>
+<size>3051</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Empress.java</name>
+<size>3880</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/GridLayoutManager.java</name>
+<size>6515</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/King.java</name>
+<size>3913</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Knight.java</name>
+<size>2998</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Main.java</name>
+<size>715</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Pawn.java</name>
+<size>3124</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Piece.java</name>
+<size>9523</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Player.java</name>
+<size>2762</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Princess.java</name>
+<size>3655</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Queen.java</name>
+<size>2428</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/Rook.java</name>
+<size>2255</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/src/Chess/icon</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/blackBishop.png</name>
+<size>905</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/blackKing.png</name>
+<size>1955</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/blackKnight.png</name>
+<size>1239</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/blackPawn.png</name>
+<size>558</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/blackQueen.png</name>
+<size>1797</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/blackRook.png</name>
+<size>622</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/whiteBishop.png</name>
+<size>1481</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/whiteKing.png</name>
+<size>1912</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/whiteKnight.png</name>
+<size>1508</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/whitePawn.png</name>
+<size>878</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/whiteQueen.png</name>
+<size>2342</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/Chess/icon/whiteRook.png</name>
+<size>812</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/ChessGame/src/UnitTest</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestBishop.java</name>
+<size>3601</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestBoard.java</name>
+<size>9164</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestEmpress.java</name>
+<size>2648</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestKing.java</name>
+<size>3285</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestKnight.java</name>
+<size>2975</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestPawn.java</name>
+<size>3712</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestPrincess.java</name>
+<size>2781</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestQueen.java</name>
+<size>4379</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/ChessGame/src/UnitTest/TestRook.java</name>
+<size>3633</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/TestSuite</name>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/TestSuite/GUI_Test_Suite.pdf</name>
+<size>1611881</size>
+<commit
+   revision="4387">
+<author>suharli2</author>
+<date>2016-02-10T07:21:14.588590Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="6101">
+<author>suharli2</author>
+<date>2016-02-18T20:49:55.153419Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/.idea</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/.idea/copyright</name>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/description.html</name>
+<size>97</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/encodings.xml</name>
+<size>220</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/misc.xml</name>
+<size>2505</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/modules.xml</name>
+<size>258</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/.idea/workspace.xml</name>
+<size>84259</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/ChessGame.iml</name>
+<size>761</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/Doxyfile</name>
+<size>101666</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/out</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/out/production</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/out/production/ChessGame</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Bishop.class</name>
+<size>1803</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/BoardGame.class</name>
+<size>12415</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Cell.class</name>
+<size>1771</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Controller$1.class</name>
+<size>1358</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Controller$2.class</name>
+<size>766</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Controller$3.class</name>
+<size>1133</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Controller$4.class</name>
+<size>916</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Controller$5.class</name>
+<size>2419</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Controller.class</name>
+<size>5377</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Empress.class</name>
+<size>2711</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/GridLayoutManager.class</name>
+<size>9529</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/King.class</name>
+<size>3024</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Knight.class</name>
+<size>2075</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Main.class</name>
+<size>367</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Pawn.class</name>
+<size>2367</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Piece.class</name>
+<size>5139</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Player.class</name>
+<size>4004</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Princess.class</name>
+<size>2774</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Queen.class</name>
+<size>2094</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/Rook.class</name>
+<size>1917</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon</name>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackBishop.png</name>
+<size>905</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackEmpress.gif</name>
+<size>1326</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackEmpress.png</name>
+<size>1099</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackKing.png</name>
+<size>1955</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackKnight.png</name>
+<size>1239</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackPawn.png</name>
+<size>558</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackPrincess.png</name>
+<size>995</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackQueen.png</name>
+<size>1797</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/blackRook.png</name>
+<size>622</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whiteBishop.png</name>
+<size>1481</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whiteEmpress.png</name>
+<size>976</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whiteKing.png</name>
+<size>1912</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whiteKnight.png</name>
+<size>1508</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whitePawn.png</name>
+<size>878</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whitePrincess.png</name>
+<size>1022</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whiteQueen.png</name>
+<size>2342</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/Chess/icon/whiteRook.png</name>
+<size>812</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest</name>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestBishop.class</name>
+<size>3293</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestBoard.class</name>
+<size>6688</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestEmpress.class</name>
+<size>2581</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestKing.class</name>
+<size>2826</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestKnight.class</name>
+<size>2533</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestPawn.class</name>
+<size>2766</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestPrincess.class</name>
+<size>2411</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestQueen.class</name>
+<size>3410</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/out/production/ChessGame/UnitTest/TestRook.class</name>
+<size>3120</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/src</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/src/Chess</name>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Bishop.java</name>
+<size>2240</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/BoardGame.java</name>
+<size>24281</size>
+<commit
+   revision="5890">
+<author>suharli2</author>
+<date>2016-02-18T04:27:47.313712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Cell.java</name>
+<size>3051</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Controller.java</name>
+<size>7755</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Empress.java</name>
+<size>4133</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/GridLayoutManager.java</name>
+<size>12711</size>
+<commit
+   revision="6099">
+<author>suharli2</author>
+<date>2016-02-18T20:44:27.737860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/King.java</name>
+<size>4073</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Knight.java</name>
+<size>2998</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Main.java</name>
+<size>715</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Pawn.java</name>
+<size>3124</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Piece.java</name>
+<size>9743</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Player.java</name>
+<size>4892</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Princess.java</name>
+<size>3902</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Queen.java</name>
+<size>2601</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/Rook.java</name>
+<size>2255</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/src/Chess/icon</name>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackBishop.png</name>
+<size>905</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackEmpress.gif</name>
+<size>1326</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackEmpress.png</name>
+<size>1099</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackKing.png</name>
+<size>1955</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackKnight.png</name>
+<size>1239</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackPawn.png</name>
+<size>558</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackPrincess.png</name>
+<size>995</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackQueen.png</name>
+<size>1797</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/blackRook.png</name>
+<size>622</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whiteBishop.png</name>
+<size>1481</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whiteEmpress.png</name>
+<size>976</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whiteKing.png</name>
+<size>1912</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whiteKnight.png</name>
+<size>1508</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whitePawn.png</name>
+<size>878</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whitePrincess.png</name>
+<size>1022</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whiteQueen.png</name>
+<size>2342</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/Chess/icon/whiteRook.png</name>
+<size>812</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/ChessGame/src/UnitTest</name>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestBishop.java</name>
+<size>3608</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestBoard.java</name>
+<size>9534</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestEmpress.java</name>
+<size>2773</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestKing.java</name>
+<size>3185</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestKnight.java</name>
+<size>2985</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestPawn.java</name>
+<size>3722</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestPrincess.java</name>
+<size>2787</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestQueen.java</name>
+<size>4389</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGame/src/UnitTest/TestRook.java</name>
+<size>3643</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Test Plan</name>
+<commit
+   revision="6101">
+<author>suharli2</author>
+<date>2016-02-18T20:49:55.153419Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Test Plan/TestPlan.pdf</name>
+<size>1939838</size>
+<commit
+   revision="5889">
+<author>suharli2</author>
+<date>2016-02-18T04:21:25.503775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Test Plan/TestPlanRev1.pdf</name>
+<size>2117512</size>
+<commit
+   revision="6101">
+<author>suharli2</author>
+<date>2016-02-18T20:49:55.153419Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Test Plan/TestPlanSlides.pptx</name>
+<size>2228870</size>
+<commit
+   revision="6101">
+<author>suharli2</author>
+<date>2016-02-18T20:49:55.153419Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="7096">
+<author>suharli2</author>
+<date>2016-02-25T22:55:36.473098Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea</name>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/csair.iml</name>
+<size>398</size>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/misc.xml</name>
+<size>853</size>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/workspace.xml</name>
+<size>23367</size>
+<commit
+   revision="6791">
+<author>suharli2</author>
+<date>2016-02-24T10:02:06.535732Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/csair</name>
+<commit
+   revision="7096">
+<author>suharli2</author>
+<date>2016-02-25T22:55:36.473098Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/csair/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6854">
+<author>suharli2</author>
+<date>2016-02-25T02:14:51.529749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/csair/data.json</name>
+<size>16096</size>
+<commit
+   revision="6795">
+<author>suharli2</author>
+<date>2016-02-24T10:07:30.616202Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/csair/graph.py</name>
+<size>9151</size>
+<commit
+   revision="7096">
+<author>suharli2</author>
+<date>2016-02-25T22:55:36.473098Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/csair/graph_unit_test.py</name>
+<size>2242</size>
+<commit
+   revision="6854">
+<author>suharli2</author>
+<date>2016-02-25T02:14:51.529749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/csair/main.py</name>
+<size>2034</size>
+<commit
+   revision="7096">
+<author>suharli2</author>
+<date>2016-02-25T22:55:36.473098Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/csair/true_graph.py</name>
+<size>5585</size>
+<commit
+   revision="6854">
+<author>suharli2</author>
+<date>2016-02-25T02:14:51.529749Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/csair</name>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7522">
+<author>suharli2</author>
+<date>2016-02-29T01:28:28.328275Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="7543">
+<author>suharli2</author>
+<date>2016-02-29T07:49:59.063614Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/data.json</name>
+<size>16096</size>
+<commit
+   revision="7522">
+<author>suharli2</author>
+<date>2016-02-29T01:28:28.328275Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/graph.py</name>
+<size>24761</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/graph_unit_test.py</name>
+<size>8371</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/help.txt</name>
+<size>778</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/main.py</name>
+<size>5701</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/out.json</name>
+<size>2413</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/out.txt</name>
+<size>403</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/test.json</name>
+<size>2988</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/csair/unit_files</name>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/mini_graph.json</name>
+<size>811</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_add_city.json</name>
+<size>3319</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_add_route.json</name>
+<size>3121</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_delete_route.json</name>
+<size>2991</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_edit_city.json</name>
+<size>3017</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_get_all_city.txt</name>
+<size>542</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_get_all_routes_url.txt</name>
+<size>460</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_get_city.txt</name>
+<size>1790</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_get_city_url.txt</name>
+<size>300</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_get_continents.txt</name>
+<size>524</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_get_hub.txt</name>
+<size>302</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_info_route.txt</name>
+<size>403</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_load.json</name>
+<size>3753</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_print.json</name>
+<size>2988</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_remove_city.json</name>
+<size>2413</size>
+<commit
+   revision="7689">
+<author>suharli2</author>
+<date>2016-03-02T02:53:37.954503Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair/unit_files/test_shortest_path.txt</name>
+<size>403</size>
+<commit
+   revision="7865">
+<author>suharli2</author>
+<date>2016-03-03T10:20:30.166470Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea</name>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/Assignment3.0.iml</name>
+<size>639</size>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea/dictionaries</name>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/dictionaries/dio.xml</name>
+<size>82</size>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/misc.xml</name>
+<size>1442</size>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="8432">
+<author>suharli2</author>
+<date>2016-03-08T03:36:23.391045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/workspace.xml</name>
+<size>51776</size>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app.py</name>
+<size>4549</size>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/log_entry.py</name>
+<size>1619</size>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/static</name>
+<commit
+   revision="8572">
+<author>suharli2</author>
+<date>2016-03-09T19:19:11.305867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/svn_list.xml</name>
+<size>99459</size>
+<commit
+   revision="8572">
+<author>suharli2</author>
+<date>2016-03-09T19:19:11.305867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/svn_list_small.xml</name>
+<size>13203</size>
+<commit
+   revision="8450">
+<author>suharli2</author>
+<date>2016-03-08T07:51:02.663671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/svn_log.xml</name>
+<size>162704</size>
+<commit
+   revision="8572">
+<author>suharli2</author>
+<date>2016-03-09T19:19:11.305867Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/svn_log_small.xml</name>
+<size>4719</size>
+<commit
+   revision="8455">
+<author>suharli2</author>
+<date>2016-03-08T11:16:04.099368Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/templates</name>
+<commit
+   revision="8628">
+<author>suharli2</author>
+<date>2016-03-10T02:00:14.331595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/all_revision.html</name>
+<size>1318</size>
+<commit
+   revision="8620">
+<author>suharli2</author>
+<date>2016-03-10T00:35:12.023631Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/history.html</name>
+<size>1738</size>
+<commit
+   revision="8620">
+<author>suharli2</author>
+<date>2016-03-10T00:35:12.023631Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/index.html</name>
+<size>3524</size>
+<commit
+   revision="8628">
+<author>suharli2</author>
+<date>2016-03-10T02:00:14.331595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/navbar.html</name>
+<size>1081</size>
+<commit
+   revision="8628">
+<author>suharli2</author>
+<date>2016-03-10T02:00:14.331595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/revision.html</name>
+<size>3010</size>
+<commit
+   revision="8628">
+<author>suharli2</author>
+<date>2016-03-10T02:00:14.331595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/script.html</name>
+<size>450</size>
+<commit
+   revision="8620">
+<author>suharli2</author>
+<date>2016-03-10T00:35:12.023631Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/show.html</name>
+<size>5615</size>
+<commit
+   revision="8620">
+<author>suharli2</author>
+<date>2016-03-10T00:35:12.023631Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/upload.html</name>
+<size>1387</size>
+<commit
+   revision="8628">
+<author>suharli2</author>
+<date>2016-03-10T02:00:14.331595Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/upload</name>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/upload/svn_log.xml</name>
+<size>116296</size>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/xml_helper.py</name>
+<size>6570</size>
+<commit
+   revision="8747">
+<author>suharli2</author>
+<date>2016-03-10T06:20:34.569656Z</date>
+</commit>
+</entry>
+</list>
+</lists>
